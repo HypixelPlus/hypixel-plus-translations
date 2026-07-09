@@ -1,0 +1,474 @@
+{
+  {
+  "hplus.about.version": "        適用於Minecraft26.1的0.24.5版本//Catharsis", 
+  "hplus.about.credit.title": "作者：", 
+  "hplus.about.credit": " ic22487", 
+  "hplus.about.affiliation": "             （與Hypixel無關聯）", 
+  "hplus.about.discord": "加入官方Hypixel+ Discord！", 
+  "hplus.about.modrinth": "在Modrinth上查看我們！", 
+  "hplus.about.kofi": "在Ko-Fi上成為支持者！", 
+  "hplus.about.other_stuff": "查看我的其他作品：", 
+  "hplus.about.other_stuff.items_spreadsheet": "SkyBlock物品表格", 
+  "hplus.about.other_stuff.alpha_spreadsheet": "Alpha物品表格", 
+  "hplus.about.other_stuff.scathabominations": "Scathabominations", 
+  "hplus.about.translator": "🌐翻譯資訊", 
+  "hplus.about.translator.hover": "中文（繁體）翻譯：Internet_Yamero\n§7想幫助將此資源包翻譯成其他語言嗎？創建一個覆蓋資源包即可！所有必要工具都可以在官方H+ Discord中找到。", 
+  "hplus.about.row.padding": "                     ", 
+  "hplus.about.licensed": "授權協議",
+
+  "hplus.config.warning.leave_this_lang_field_blank": "", 
+  "hplus.config.tab.items": "物品", 
+  "hplus.config.tab.items.items": "物品", 
+  "hplus.config.tab.items.weapons": "武器", 
+  "hplus.config.tab.items.tools": "工具", 
+  "hplus.config.tab.items.events": "活動", 
+  "hplus.config.tab.items.cosmetics": "裝飾品", 
+  "hplus.config.tab.items.storage": "儲存", 
+  "hplus.config.tab.items.other": "其他", 
+  "hplus.config.tab.tweaks": "調整", 
+  "hplus.config.tab.tweaks.armor": "護甲", 
+  "hplus.config.tab.tweaks.big_items": "大型物品", 
+  "hplus.config.tab.animation": "動畫", 
+  "hplus.config.tab.animation.weapons": "武器", 
+  "hplus.config.tab.animation.tools": "工具", 
+  "hplus.config.tab.animation.items": "物品", 
+  "hplus.config.tab.animation.easter_eggs": "彩蛋", 
+  "hplus.config.tab.ui": "界面", 
+  "hplus.config.tab.ui.more_coming_soon": "更多開關即將推出™", 
+  "hplus.config.tab.kofi": "Ko-Fi", 
+  "hplus.config.tab.kofi.header": "此選項卡僅影響Ko-Fi測試版本。", 
+  "hplus.config.tab.kofi.header2": "如果你想提前體驗更新和新功能，可以透過", 
+  "hplus.config.tab.kofi.header_button": "點擊這里加入！", 
+  "hplus.config.tab.kofi.pets": "寵物", 
+  "hplus.config.tab.kofi.pets.disclaimer": "寵物模型將在所有基礎模型完成后公開發布。", 
+  "hplus.config.tab.kofi.environments": "環境", 
+  "hplus.config.tab.kofi.environments.disclaimer": "環境將在完成后公開發布。", 
+  "hplus.config.tab.about": "關於",
+
+  "hplus.config.toggle.on": "開啟 ", 
+  "hplus.config.toggle.on.no_space": "開啟", 
+  "hplus.config.toggle.on.negative": "", 
+  "hplus.config.toggle.on.balance": "", 
+  "hplus.config.toggle.off": "關閉 ", 
+  "hplus.config.toggle.off.no_space": "關閉", 
+  "hplus.config.toggle.off.negative": "", 
+  "hplus.config.toggle.off.balance": "", 
+  "hplus.config.toggle.off_warn": "⚠關閉 ", 
+  "hplus.config.toggle.off_warn.no_space": "⚠關閉", 
+  "hplus.config.toggle.half_and_half": "各一半 ", 
+  "hplus.config.toggle.vanilla": "原版 ", 
+  "hplus.config.toggle.vanilla.no_space": "原版", 
+  "hplus.config.toggle.hplus": "Hypixel+ ", 
+  "hplus.config.toggle.50_percent": "50% ", 
+  "hplus.config.toggle.auto": "自動 ", 
+  "hplus.config.toggle.left": "左側 ", 
+  "hplus.config.toggle.right": "右側 ", 
+  "hplus.config.toggle.big.both_big": "全部大型 ", 
+  "hplus.config.toggle.big.both_small": "全部小型 ", 
+  "hplus.config.toggle.aote_aotv.etherwarp": "Etherwarp ", 
+  "hplus.config.toggle.aote_aotv.all_spoons": "所有鏟子 ", 
+  "hplus.config.toggle.aote_aotv.all_swords": "所有劍 ", 
+  "hplus.config.toggle.pets.arachnophobia.default": "預設模型", 
+  "hplus.config.toggle.pets.arachnophobia.no_spiders": "無蜘蛛", 
+  "hplus.config.toggle.pets.arachnophobia.no_tarantulas": "無Tarantula", 
+  "hplus.config.toggle.pets.arachnophobia.disable_all": "全部禁用", 
+  "hplus.config.toggle.pets.arachnophobia.funny_mode": "搞笑模式", 
+  "hplus.config.toggle.pets.arachnophobia.funny_mode.description": "讓它們變得更加恐怖。不適合膽小者。"
+  
+  "hplus.config.items.accessories": "切換飾品", 
+  "hplus.config.items.accessories.description": "啟用或禁用飾品紋理。",
+
+  "hplus.config.items.armor": "切換護甲", 
+  "hplus.config.items.armor.description": "啟用或禁用護甲紋理。",
+
+  "hplus.config.items.equipment": "切換裝備", 
+  "hplus.config.items.equipment.description": "啟用或禁用裝備紋理。",
+
+  "hplus.config.items.weapons": "切換所有武器", 
+  "hplus.config.items.weapons.description": "啟用或禁用§c全部§7武器紋理。",
+
+  "hplus.config.items.weapons.bows": "切換弓", 
+  "hplus.config.items.weapons.bows.description": "啟用或禁用弓紋理。",
+
+  "hplus.config.items.weapons.longswords": "切換長劍", 
+  "hplus.config.items.weapons.longswords.description": "啟用或禁用長劍紋理。",
+
+  "hplus.config.items.weapons.scythes": "切換鐮刀", 
+  "hplus.config.items.weapons.scythes.description": "啟用或禁用鐮刀紋理。",
+
+  "hplus.config.items.weapons.staves": "切換法杖", 
+  "hplus.config.items.weapons.staves.description": "啟用或禁用法杖紋理。",
+
+  "hplus.config.items.weapons.swords": "切換劍", 
+  "hplus.config.items.weapons.swords.description": "啟用或禁用劍紋理。",
+
+  "hplus.config.items.weapons.wands": "切換魔杖", 
+  "hplus.config.items.weapons.wands.description": "啟用或禁用魔杖紋理。",
+
+  "hplus.config.items.weapons.whips": "切換鞭子", 
+  "hplus.config.items.weapons.whips.description": "啟用或禁用鞭子紋理。",
+
+  "hplus.config.items.tools": "切換所有工具", 
+  "hplus.config.items.tools.description": "啟用或禁用§c全部§7工具紋理。",
+
+  "hplus.config.items.tools.abiphones": "切換Abiphone", 
+  "hplus.config.items.tools.abiphones.description": "啟用或禁用Abiphone紋理。",
+
+  "hplus.config.items.tools.arrows": "切換箭", 
+  "hplus.config.items.tools.arrows.description": "啟用或禁用箭紋理。",
+
+  "hplus.config.items.tools.biome_sticks": "切換生物群系棒", 
+  "hplus.config.items.tools.biome_sticks.description": "啟用或禁用生物群系棒紋理。",
+
+  "hplus.config.items.tools.combat_tools": "切換戰斗工具", 
+  "hplus.config.items.tools.combat_tools.description": "啟用或禁用戰斗工具紋理。",
+
+  "hplus.config.items.tools.drills": "切換鑽頭", 
+  "hplus.config.items.tools.drills.description": "啟用或禁用鑽頭紋理。",
+
+  "hplus.config.items.tools.farming_tools": "切換農業工具", 
+  "hplus.config.items.tools.farming_tools.description": "啟用或禁用農業工具紋理。",
+
+  "hplus.config.items.tools.garden_hoes": "切換花園鋤頭", 
+  "hplus.config.items.tools.garden_hoes.description": "啟用或禁用花園鋤頭紋理。",
+
+  "hplus.config.items.tools.fishing_tools": "切換釣魚工具", 
+  "hplus.config.items.tools.fishing_tools.description": "啟用或禁用釣魚工具紋理。",
+
+  "hplus.config.items.tools.fishing_rods": "切換釣竿", 
+  "hplus.config.items.tools.fishing_rods.description": "啟用或禁用釣竿紋理。",
+
+  "hplus.config.items.tools.rod_parts": "切換釣竿部件", 
+  "hplus.config.items.tools.rod_parts.description": "啟用或禁用釣竿部件紋理。",
+
+  "hplus.config.items.tools.foraging_tools": "切換伐木工具", 
+  "hplus.config.items.tools.foraging_tools.description": "啟用或禁用伐木工具紋理。",
+
+  "hplus.config.items.tools.mining_tools": "切換釆礦工具", 
+  "hplus.config.items.tools.mining_tools.description": "啟用或禁用釆礦工具紋理。",
+
+  "hplus.config.items.items": "切換所有物品", 
+  "hplus.config.items.items.description": "啟用或禁用§c全部§7物品紋理。",
+
+  "hplus.config.items.items.crimson_isle": "切換Crimson Isle物品", 
+  "hplus.config.items.items.crimson_isle.description": "啟用或禁用所有從Crimson Isle獲得的物品紋理。",
+
+  "hplus.config.items.items.dungeons": "切換地下城物品", 
+  "hplus.config.items.items.dungeons.description": "啟用或禁用所有從地下城獲得的物品紋理。",
+
+  "hplus.config.items.items.end": "切換終界物品", 
+  "hplus.config.items.items.end.description": "啟用或禁用所有從終界獲得的物品紋理。",
+
+  "hplus.config.items.items.farming": "切換農業物品", 
+  "hplus.config.items.items.farming.description": "啟用或禁用所有通過農業獲得的物品紋理。",
+
+  "hplus.config.items.items.farming_mutations": "切換農業突變植物", 
+  "hplus.config.items.items.farming_mutations.description": "啟用或禁用溫室突變植物紋理。"
+  
+  "hplus.config.items.items.fishing": "切換釣魚物品", 
+  "hplus.config.items.items.fishing.description": "啟用或禁用所有通過釣魚獲得的物品紋理。",
+
+  "hplus.config.items.items.fishing_bait": "切換魚餌", 
+  "hplus.config.items.items.fishing_bait.description": "啟用或禁用魚餌紋理。",
+
+  "hplus.config.items.items.trophy_fish": "切換獎杯魚", 
+  "hplus.config.items.items.trophy_fish.description": "啟用或禁用Crimson Isle獎杯魚紋理。",
+
+  "hplus.config.items.items.trophy_frogs": "切換獎杯青蛙", 
+  "hplus.config.items.items.trophy_frogs.description": "啟用或禁用Lotus Atoll獎杯青蛙紋理。",
+
+  "hplus.config.items.items.foraging": "切換伐木物品", 
+  "hplus.config.items.items.foraging.description": "啟用或禁用所有通過伐木獲得的物品紋理。",
+
+  "hplus.config.items.items.mining": "切換釆礦物品", 
+  "hplus.config.items.items.mining.description": "啟用或禁用所有通過釆礦獲得的物品紋理。",
+
+  "hplus.config.items.items.gemstones": "切換寶石", 
+  "hplus.config.items.items.gemstones.description": "啟用或禁用寶石紋理。",
+
+  "hplus.config.items.items.modifiers": "切換修飾物", 
+  "hplus.config.items.items.modifiers.description": "啟用或禁用修飾物品紋理。",
+
+  "hplus.config.items.items.pet_items": "切換寵物物品", 
+  "hplus.config.items.items.pet_items.description": "啟用或禁用寵物物品紋理。",
+
+  "hplus.config.items.items.potions": "切換藥水", 
+  "hplus.config.items.items.potions.description": "啟用或禁用藥水紋理。",
+
+  "hplus.config.items.items.power_stones": "切換Power Stones", 
+  "hplus.config.items.items.power_stones.description": "啟用或禁用Power Stones紋理。",
+
+  "hplus.config.items.items.reforge_stones": "切換Reforge Stone", 
+  "hplus.config.items.items.reforge_stones.description": "啟用或禁用Reforge Stone紋理。",
+
+  "hplus.config.items.items.rift": "切換The Rift物品", 
+  "hplus.config.items.items.rift.description": "啟用或禁用所有從The Rift獲得的物品紋理。",
+
+  "hplus.config.items.items.slayer": "切換獵手物品", 
+  "hplus.config.items.items.slayer.description": "啟用或禁用所有從獵手獲得的物品紋理。",
+
+  "hplus.config.items.items.special": "切換特殊物品", 
+  "hplus.config.items.items.special.description": "啟用或禁用大多數特殊稀有度物品紋理。",
+
+  "hplus.config.items.items.the_fish": "切換The Fish", 
+  "hplus.config.items.items.the_fish.description": "啟用或禁用The Fish紋理。",
+
+  "hplus.config.items.items.travel_scrolls": "切換Travel Scrolls", 
+  "hplus.config.items.items.travel_scrolls.description": "啟用或禁用Travel Scrolls紋理。",
+
+  "hplus.config.items.items.misc": "切換雜項物品", 
+  "hplus.config.items.items.misc.description": "啟用或禁用不屬於其他分類的物品紋理。",
+
+  "hplus.config.items.events.century": "切換世紀抽獎活動物品", 
+  "hplus.config.items.events.century.description": "啟用或禁用所有從世紀抽獎活動獲得的物品紋理。",
+
+  "hplus.config.items.events.chuckleton": "切換Chuckleton物品", 
+  "hplus.config.items.events.chuckleton.description": "啟用或禁用所有從Honk and Seek獲得的物品紋理。",
+
+  "hplus.config.items.events.great_spook": "切換Great Spook物品", 
+  "hplus.config.items.events.great_spook.description": "啟用或禁用所有從Great Spook獲得的物品紋理。",
+
+  "hplus.config.items.events.harvest_feast": "切換Harvest Feast物品", 
+  "hplus.config.items.events.harvest_feast.description": "啟用或禁用所有從Harvest和Grand Feasts獲得的物品紋理。",
+
+  "hplus.config.items.events.hoppity": "切換Hoppity物品", 
+  "hplus.config.items.events.hoppity.description": "啟用或禁用所有從Hoppity's Hunt獲得的物品紋理。",
+
+  "hplus.config.items.events.jerrys_workshop": "切換Jerry工坊物品", 
+  "hplus.config.items.events.jerrys_workshop.description": "啟用或禁用所有從Jerry賽季獲得的物品紋理。",
+
+  "hplus.config.items.events.mythological": "切換Mythological Ritual物品", 
+  "hplus.config.items.events.mythological.description": "啟用或禁用所有從Mythological Ritual獲得的物品紋理。",
+
+  "hplus.config.items.events.spooky_festival": "切換Spooky Festival物品", 
+  "hplus.config.items.events.spooky_festival.description": "啟用或禁用所有從Spooky Festival獲得的物品紋理。",
+
+  "hplus.config.items.events.zodiac": "切換Year of活動物品", 
+  "hplus.config.items.events.zodiac.description": "啟用或禁用所有從“Year of”活動獲得的物品紋理。"
+  
+  "hplus.config.items.cosmetics.backpack_skins": "切換背包外觀", 
+  "hplus.config.items.cosmetics.backpack_skins.description": "啟用或禁用背包外觀紋理。",
+
+  "hplus.config.items.cosmetics.dyes": "切換染料", 
+  "hplus.config.items.cosmetics.dyes.description": "啟用或禁用染料紋理。",
+
+  "hplus.config.items.cosmetics.runes": "切換符文", 
+  "hplus.config.items.cosmetics.runes.description": "啟用或禁用基礎符文紋理。",
+
+  "hplus.config.items.cosmetics.unique_runes": "切換特殊符文", 
+  "hplus.config.items.cosmetics.unique_runes.description": "啟用或禁用拍賣行特售符文紋理。",
+
+  "hplus.config.items.storage.backpacks": "切換背包", 
+  "hplus.config.items.storage.backpacks.description": "啟用或禁用背包紋理。",
+
+  "hplus.config.items.storage.sacks": "切換收納袋", 
+  "hplus.config.items.storage.sacks.description": "啟用或禁用收納袋紋理。",
+
+  "hplus.config.items.other.currency": "切換貨幣", 
+  "hplus.config.items.other.currency.description": "啟用或禁用掉落貨幣紋理。（金幣、精華等）",
+
+  "hplus.config.items.other.glitched_items": "切換異常物品", 
+  "hplus.config.items.other.glitched_items.description": "啟用或禁用SkyBlock異常物品紋理。",
+
+  "hplus.config.items.other.bedwars": "切換床戰物品", 
+  "hplus.config.items.other.bedwars.description": "啟用或禁用床戰和床戰夢境中的物品紋理。（§c損壞§7）",
+
+  "hplus.config.items.other.murder_mystery": "切換密室殺手武器", 
+  "hplus.config.items.other.murder_mystery.description": "啟用或禁用密室殺手中的武器紋理。（§c損壞§7）",
+
+  "hplus.config.tweaks.aote_aotv": "Aspect of the End/Void調整", 
+  "hplus.config.tweaks.aote_aotv.description": "決定Aspect of the End/Void所使用的紋理。",
+
+  "hplus.config.tweaks.legacy_axes": "舊版斧頭", 
+  "hplus.config.tweaks.legacy_axes.description": "將Galatea更新中被修改的武器恢復為斧頭外觀。",
+
+  "hplus.config.tweaks.legacy_treecapitator": "舊版Treecapitator", 
+  "hplus.config.tweaks.legacy_treecapitator.description": "將Treecapitator恢復為Galatea發布前的黑曜石紋理。",
+
+  "hplus.config.tweaks.totem_of_corruption": "腐化圖騰放置模型", 
+  "hplus.config.tweaks.totem_of_corruption.description": "決定放置后的腐化圖騰是否使用自訂模型。",
+
+  "hplus.config.tweaks.golden_fish": "Golden Fish實體模型", 
+  "hplus.config.tweaks.golden_fish.description": "決定遇到Golden Fish時是否使用自訂模型。",
+
+  "hplus.config.tweaks.vanilla_garden_crops": "原版花園作物", 
+  "hplus.config.tweaks.vanilla_garden_crops.description": "修改向日葵、月光花和野玫瑰的紋理設計，使其更接近原版風格。",
+
+  "hplus.config.tweaks.left_handed_gloves": "左手手套與護手", 
+  "hplus.config.tweaks.left_handed_gloves.description": "決定手套和護手顯示左手或右手模型。",
+
+  "hplus.config.tweaks.armor.models": "切換護甲模型", 
+  "hplus.config.tweaks.armor.models.description": "啟用或禁用顯示在玩家模型上的護甲紋理。",
+
+  "hplus.config.tweaks.armor.icons": "切換護甲圖標", 
+  "hplus.config.tweaks.armor.icons.description": "啟用或禁用護甲欄圖標紋理。",
+
+  "hplus.config.tweaks.armor.masks": "切換護甲面具", 
+  "hplus.config.tweaks.armor.masks.description": "啟用或禁用面具護甲圖標紋理。",
+
+  "hplus.config.tweaks.armor.blocks": "切換方塊頭盔護甲", 
+  "hplus.config.tweaks.armor.blocks.description": "啟用或禁用方塊頭盔護甲紋理。",
+
+  "hplus.config.tweaks.armor.player_heads": "切換玩家頭顱護甲", 
+  "hplus.config.tweaks.armor.player_heads.description": "啟用或禁用玩家頭顱護甲重制紋理。§8（目前僅支持凋零護甲）",
+
+  "hplus.config.tweaks.armor.dye": "切換護甲染色", 
+  "hplus.config.tweaks.armor.dye.description": "決定護甲是否可以染色。",
+
+  "hplus.config.tweaks.big.staves": "大型法杖", 
+  "hplus.config.tweaks.big.staves.description": "決定法杖在手持狀態和UI中的大小。",
+
+  "hplus.config.tweaks.big.scythes": "大型鐮刀", 
+  "hplus.config.tweaks.big.scythes.description": "決定鐮刀在手持狀態和UI中的大小。",
+
+  "hplus.config.tweaks.big.longswords": "大型長劍", 
+  "hplus.config.tweaks.big.longswords.description": "決定長劍和太刀在手持狀態和UI中的大小。",
+
+  "hplus.config.tweaks.big.fishing_rods": "大型釣竿", 
+  "hplus.config.tweaks.big.fishing_rods.description": "決定巨型釣竿在手持狀態和UI中的大小。",
+
+  "hplus.config.tweaks.big.misc": "大型雜項物品", 
+  "hplus.config.tweaks.big.misc.description": "決定其他（大多未使用的）巨型物品在手持狀態和UI中的大小。",
+
+  "hplus.config.animation": "切換所有動畫", 
+  "hplus.config.animation.description": "啟用或禁用§c全部§7物品動畫。",
+
+  "hplus.config.animation.textures": "切換所有紋理動畫", 
+  "hplus.config.animation.textures.description": "啟用或禁用§c全部§7動態紋理。",
+
+  "hplus.config.animation.weapons.shortbow": "短弓修復", 
+  "hplus.config.animation.weapons.shortbow.description": "修改短弓在左鍵時是否會顯示射箭動畫。",
+
+  "hplus.config.animation.weapons.aotj": "Aspect of the Jerry挑眉動畫", 
+  "hplus.config.animation.weapons.aotj.description": "修改Jerry之劍右鍵時是否會挑動眉毛。",
+
+  "hplus.config.animation.weapons.aote_aotv": "Aspect of the End/Void傳送閃光", 
+  "hplus.config.animation.weapons.aote_aotv.description": "修改Aspect of the End/Void傳送時是否閃光。",
+
+  "hplus.config.animation.weapons.aote_aotv_etherwarp": "Aspect of the End/Void Etherwarp開啟", 
+  "hplus.config.animation.weapons.aote_aotv_etherwarp.description": "修改使用Etherwarp時Aspect of the End/Void是否打開。",
+
+  "hplus.config.animation.weapons.necron_blade": "Necron Blade卷軸閃光", 
+  "hplus.config.animation.weapons.necron_blade.description": "修改Necron Blade及其升級版本使用卷軸技能時是否閃光。",
+
+  "hplus.config.animation.weapons.zombie_sword": "Zombie Sword治療閃光", 
+  "hplus.config.animation.weapons.zombie_sword.description": "修改Zombie Sword治療時是否閃光。",
+
+  "hplus.config.animation.weapons.hollow_wand": "Hollow Wand符文", 
+  "hplus.config.animation.weapons.hollow_wand.description": "修改Hollow Wand是否顯示輸入符文的視覺效果。",
+
+  "hplus.config.animation.weapons.celeste_starlight_wand": "Celeste/Starlight Wand閃光", 
+  "hplus.config.animation.weapons.celeste_starlight_wand.description": "修改Celeste/Starlight Wand施法時是否閃光。",
+
+  "hplus.config.animation.weapons.ink_wand": "Ink Wand擠壓動畫", 
+  "hplus.config.animation.weapons.ink_wand.description": "修改Ink Wand釋放Ink Bomb時是否產生擠壓效果。",
+
+  "hplus.config.animation.weapons.pigman_sword": "Pigman Sword火焰", 
+  "hplus.config.animation.weapons.pigman_sword.description": "修改Pigman Sword釋放Burning Souls時是否顯示火焰。",
+
+  "hplus.config.animation.weapons.sinseeker_scythe": "Sinseeker Scythe Sinrecall閃光", 
+  "hplus.config.animation.weapons.sinseeker_scythe.description": "修改Sinseeker Scythe施放Sinrecall時是否閃光。",
+
+  "hplus.config.animation.weapons.voodoo_doll": "Voodoo Doll刺擊", 
+  "hplus.config.animation.weapons.voodoo_doll.description": "修改Voodoo Doll施放Acupuncture時是否出現被刺擊的動畫。",
+
+  "hplus.config.animation.tools.drill": "鑽頭旋轉動畫", 
+  "hplus.config.animation.tools.drill.description": "修改鑽頭挖礦時是否旋轉。",
+
+  "hplus.config.animation.tools.vacuum": "Vacuum Vortex漩渦動畫", 
+  "hplus.config.animation.tools.vacuum.description": "修改使用Vacuum Vortex時內部是否顯示碎屑。",
+
+  "hplus.config.animation.tools.hydrocan": "HydroCan™澆水動畫", 
+  "hplus.config.animation.tools.hydrocan.description": "修改HydroCan™是否顯示倒水和裝滿水的視覺效果。",
+
+  "hplus.config.animation.tools.plant_diagnostics_tool": "植物診斷工具動畫", 
+  "hplus.config.animation.tools.plant_diagnostics_tool.description": "修改植物診斷工具使用時儀表是否移動。",
+
+  "hplus.config.animation.tools.abiphone": "Abiphone顯示動畫", 
+  "hplus.config.animation.tools.abiphone.description": "修改Abiphone拿起或懸停時是否開啟。",
+
+  "hplus.config.animation.tools.wand_of_healing": "Wand of Healing閃光", 
+  "hplus.config.animation.tools.wand_of_healing.description": "修改使用Wands of Healing、Mending、Restoration、Atonement、Strength時是否閃光。",
+
+  "hplus.config.animation.tools.aotl": "Aspect of the Leech傳送", 
+  "hplus.config.animation.tools.aotl.description": "修改Aspect of the Leech施放Weird Transmission時是否打開。",
+
+  "hplus.config.animation.tools.royal_pigeon": "皇家信鴿呼叫", 
+  "hplus.config.animation.tools.royal_pigeon.description": "修改皇家信鴿使用時是否顯示鳴叫動畫。",
+
+  "hplus.config.animation.tools.egglocator": "尋蛋器閃爍", 
+  "hplus.config.animation.tools.egglocator.description": "修改尋蛋器使用時是否閃爍。",
+
+  "hplus.config.animation.tools.soul_esoward": "Soul Esoward閃爍", 
+  "hplus.config.animation.tools.soul_esoward.description": "修改使用Soul Esoward時是否閃爍。",
+
+  "hplus.config.animation.tools.etherwarp_conduit": "Etherwarp Conduits開啟", 
+  "hplus.config.animation.tools.etherwarp_conduit.description": "修改潛行時Etherwarp Conduits是否打開。",
+
+  "hplus.config.animation.tools.detective_scanner": "Detective Scanner嗅探", 
+  "hplus.config.animation.tools.detective_scanner.description": "修改Detective Scanner使用時是否進行嗅探動畫。",
+
+  "hplus.config.animation.tools.healing_melon": "治療西瓜食用動畫", 
+  "hplus.config.animation.tools.healing_melon.description": "修改治療西瓜使用時是否顯示被吃掉的動畫。",
+
+  "hplus.config.animation.tools.holy_ice": "神聖冰塊閃光", 
+  "hplus.config.animation.tools.holy_ice.description": "修改神聖冰塊使用時是否閃光。",
+
+  "hplus.config.animation.items.spraying": "噴灑動畫", 
+  "hplus.config.animation.items.spraying.description": "修改噴灑器、害蟲驅除劑和噴霧罐使用時是否顯示噴灑效果。",
+
+  "hplus.config.animation.items.ubiks_cube": "Ubik's Cube旋轉", 
+  "hplus.config.animation.items.ubiks_cube.description": "修改Ubik's Cube使用時是否旋轉。",
+
+  "hplus.config.animation.items.revive_stone": "Revive Stone破碎", 
+  "hplus.config.animation.items.revive_stone.description": "修改Revive Stone使用時是否顯示破碎動畫。",
+
+  "hplus.config.animation.items.haunt": "Haunt Button害羞", 
+  "hplus.config.animation.items.haunt.description": "修改地下城中使用Haunt Button時是否隱藏。",
+
+  "hplus.config.animation.easter_eggs.held_item_idle": "手持物品待機動畫", 
+  "hplus.config.animation.easter_eggs.held_item_idle.description": "切換各種僅在手持物品時出現的彩蛋動畫。",
+
+  "hplus.config.animation.easter_eggs.right_click_inspect": "右鍵檢查動畫", 
+  "hplus.config.animation.easter_eggs.right_click_inspect.description": "切換各種僅在持續按住右鍵時出現的彩蛋動畫。",
+
+  "hplus.config.ui": "切換所有UI圖標", 
+  "hplus.config.ui.description": "啟用或禁用§c全部§7UI圖標。",
+
+  "hplus.config.ui.fire_overlay": "切換火焰覆蓋層", 
+  "hplus.config.ui.fire_overlay.description": "修改第一人稱火焰覆蓋層的透明度。", 
+  "hplus.config.ui.fire_overlay.description2": "可能會與部分光影產生異常交互。",
+
+  "hplus.config.ui.player_list_ping": "切換玩家列表延遲顯示", 
+  "hplus.config.ui.player_list_ping.description": "移除按下 ", 
+  "hplus.config.ui.player_list_ping.description2": " 后顯示的玩家列表中的延遲指示器。",
+
+  "hplus.config.kofi.pets.models": "切換寵物模型", 
+  "hplus.config.kofi.pets.models.description": "啟用或禁用主世界寵物模型。",
+
+  "hplus.config.kofi.pets.icons": "切換寵物圖標", 
+  "hplus.config.kofi.pets.icons.description": "啟用或禁用寵物UI圖標。",
+
+  "hplus.config.kofi.pets.skins": "切換寵物外觀", 
+  "hplus.config.kofi.pets.skins.description": "修改寵物外觀是否顯示為頭顱，或是否擁有模型和紋理。",
+
+  "hplus.config.kofi.pets.arachnophobia": "恐蜘蛛症模式", 
+  "hplus.config.kofi.pets.arachnophobia.description": "禁用蜘蛛和狼蛛寵物模型。",
+
+  "hplus.config.kofi.environments.dwarven_metals": "切換矮人金屬", 
+  "hplus.config.kofi.environments.dwarven_metals.description": "啟用或禁用整個SkyBlock中的矮人金屬方塊紋理。",
+
+  "hplus.config.kofi.environments.gemstones": "切換寶石", 
+  "hplus.config.kofi.environments.gemstones.description": "啟用或禁用整個SkyBlock中的寶石方塊紋理。",
+
+  "hplus.config.kofi.environments.crystal_hollows": "切換水晶洞窟環境", 
+  "hplus.config.kofi.environments.crystal_hollows.description": "啟用或禁用水晶洞窟中的環境紋理。",
+
+  "hplus.config.kofi.environments.glacite_tunnels": "切換極寒隧道環境", 
+  "hplus.config.kofi.environments.glacite_tunnels.description": "啟用或禁用極寒隧道中的環境紋理。",
+
+  "hplus.config.kofi.environments.crimson_isle": "切換Crimson Isle環境", 
+  "hplus.config.kofi.environments.crimson_isle.description": "啟用或禁用Crimson Isle中的環境紋理。",
+
+  "hplus.config.kofi.environments.dwarven_fog": "切換矮人迷霧", 
+  "hplus.config.kofi.environments.dwarven_fog.description": "啟用或禁用矮人礦山和極寒隧道中的霧效。" }
