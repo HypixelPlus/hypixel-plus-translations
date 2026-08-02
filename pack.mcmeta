@@ -1,6 +1,6 @@
 {
   "pack": {
-    "min_format": 69, "max_format": 84,
-    "description": "Hypixel+ Config Translations for 0.24.5"
+    "min_format": 84, "max_format": 88,
+    "description": "Hypixel+ Config Translations for 0.27.0"
   }
 }
