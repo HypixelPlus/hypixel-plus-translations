@@ -77,7 +77,7 @@
   "hplus.config.toggle.pets.arachnophobia.no_tarantulas": "No Tarantulas",
   "hplus.config.toggle.pets.arachnophobia.disable_all": "Disable All",
   "hplus.config.toggle.pets.arachnophobia.funny_mode": "Funny Mode",
-  "hplus.config.toggle.pets.arachnophobia.funny_mode.description": "Makes them extra terrifying. Not for the feint of heart.",
+  "hplus.config.toggle.pets.arachnophobia.funny_mode.description": "Makes them extra terrifying. Not for the faint of heart.",
   
   "hplus.config.items.accessories": "Toggle Accessories",
   "hplus.config.items.accessories.description": "Enable or disable Accessory textures.",
@@ -230,7 +230,7 @@
   "hplus.config.items.events.chuckleton.description": "Enable or disable textures for all items obtained from Honk and Seek.",
 
   "hplus.config.items.events.great_spook": "Toggle Great Spook Items",
-  "hplus.config.items.events.great_spook.description": "Enable or disable textures for all items obtained from the Great Spook.",
+  "hplus.config.items.events.great_spook.description": "Enable or disable textures for all items obtained from The Great Spook.",
 
   "hplus.config.items.events.harvest_feast": "Toggle Harvest Feast Items",
   "hplus.config.items.events.harvest_feast.description": "Enable or disable textures for all items obtained from the Harvest and Grand Feasts.",
@@ -305,7 +305,7 @@
   "hplus.config.tweaks.left_handed_gloves": "Left-handed Gloves & Gauntlets",
   "hplus.config.tweaks.left_handed_gloves.description": "Decides whether Gloves and Gauntlets display their left or right-handed model.",
 
-  "hplus.config.tweaks.dungeonbreaker": "Flip Dungeon Breaker",
+  "hplus.config.tweaks.dungeonbreaker": "Flip Dungeonbreaker",
   "hplus.config.tweaks.dungeonbreaker.description": "Decides which side of the Dungeonbreaker you dungeon break with.",
 
   "hplus.config.tweaks.armor.models": "Toggle Armor Models",
