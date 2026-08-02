@@ -1,5 +1,5 @@
 {
-  "hplus.about.version": "        0.24.5 for Minecraft 26.1 // Catharsis",
+  "hplus.about.version": "        0.27.0 for Minecraft 26.1 // Catharsis",
   "hplus.about.credit.title": "Created by: ",
   "hplus.about.credit": " ic22487",
   "hplus.about.affiliation": "             (Not affiliated with Hypixel)",
@@ -25,6 +25,7 @@
   "hplus.config.tab.items.storage": "Storage",
   "hplus.config.tab.items.other": "Other",
   "hplus.config.tab.tweaks": "Tweaks",
+  "hplus.config.tab.tweaks.legacy": "Legacy",
   "hplus.config.tab.tweaks.armor": "Armor",
   "hplus.config.tab.tweaks.big_items": "Big Items",
   "hplus.config.tab.animation": "Animation",
@@ -62,11 +63,15 @@
   "hplus.config.toggle.auto": "Auto ",
   "hplus.config.toggle.left": "Left ",
   "hplus.config.toggle.right": "Right ",
+  "hplus.config.toggle.16x": "16x ",
+  "hplus.config.toggle.32x": "32x ",
   "hplus.config.toggle.big.both_big": "Both Big ",
   "hplus.config.toggle.big.both_small": "Both Small ",
   "hplus.config.toggle.aote_aotv.etherwarp": "Etherwarp ",
   "hplus.config.toggle.aote_aotv.all_spoons": "All Spoons ",
   "hplus.config.toggle.aote_aotv.all_swords": "All Swords ",
+  "hplus.config.toggle.dungeonbreaker.blunt": "Blunt End ",
+  "hplus.config.toggle.dungeonbreaker.sharp": "Sharp End ",
   "hplus.config.toggle.pets.arachnophobia.default": "Default Model",
   "hplus.config.toggle.pets.arachnophobia.no_spiders": "No Spiders",
   "hplus.config.toggle.pets.arachnophobia.no_tarantulas": "No Tarantulas",
@@ -285,6 +290,9 @@
   "hplus.config.tweaks.legacy_treecapitator": "Legacy Treecapitator",
   "hplus.config.tweaks.legacy_treecapitator.description": "Reverts Treecapitator back to its obsidian-based texture from before Galatea's release.",
 
+  "hplus.config.tweaks.legacy_giants_sword": "Legacy Giant's Sword",
+  "hplus.config.tweaks.legacy_giants_sword.description": "Reverts Giant's Sword into its old model and texture (Giant Vanilla Iron Sword).",
+
   "hplus.config.tweaks.totem_of_corruption": "Totem of Corruption Placed Model",
   "hplus.config.tweaks.totem_of_corruption.description": "Decides whether to use a custom model for the placed Totem of Corruption.",
 
@@ -296,6 +304,9 @@
 
   "hplus.config.tweaks.left_handed_gloves": "Left-handed Gloves & Gauntlets",
   "hplus.config.tweaks.left_handed_gloves.description": "Decides whether Gloves and Gauntlets display their left or right-handed model.",
+
+  "hplus.config.tweaks.dungeonbreaker": "Flip Dungeon Breaker",
+  "hplus.config.tweaks.dungeonbreaker.description": "Decides which side of the Dungeonbreaker you dungeon break with.",
 
   "hplus.config.tweaks.armor.models": "Toggle Armor Models",
   "hplus.config.tweaks.armor.models.description": "Enable or Disable Armor textures displayed on the player model.",
@@ -426,6 +437,9 @@
   "hplus.config.animation.items.haunt": "Haunt Button Shyness",
   "hplus.config.animation.items.haunt.description": "Change whether the Haunt Button in dungeons hides when used.",
 
+  "hplus.config.animation.items.box_open": "Raffle Loot Box Opening Animation",
+  "hplus.config.animation.items.box_open.description": "Change whether Raffle Loot Boxes open when used.",
+
   "hplus.config.animation.easter_eggs.held_item_idle": "Held Item Idle animations",
   "hplus.config.animation.easter_eggs.held_item_idle.description": "Toggles various easter egg animations that only appear when held in hand.",
 
@@ -437,7 +451,7 @@
 
   "hplus.config.ui.fire_overlay": "Toggle Fire Overlay",
   "hplus.config.ui.fire_overlay.description": "Change the transparency of the first-person fire overlay.",
-  "hplus.config.ui.fire_overlay.description2": "May interact strangely with some shaders.",
+  "hplus.config.ui.fire_overlay.description2": "May interact strangely with some shaders and NVIDIA graphics cards.",
 
   "hplus.config.ui.player_list_ping": "Toggle Player List Ping",
   "hplus.config.ui.player_list_ping.description": "Removes the Ping indicators from the player list shown when pressing ",
@@ -471,5 +485,8 @@
   "hplus.config.kofi.environments.crimson_isle.description": "Enable or disable environment textures in the Crimson Isle.",
 
   "hplus.config.kofi.environments.dwarven_fog": "Toggle Dwarven Fog",
-  "hplus.config.kofi.environments.dwarven_fog.description": "Enable or disable the fog effect in the Dwarven Mines and Glacite Tunnels."
+  "hplus.config.kofi.environments.dwarven_fog.description": "Enable or disable the fog effect in the Dwarven Mines and Glacite Tunnels.",
+  
+  "hplus.config.kofi.environments.garden": "Toggle Garden Crops",
+  "hplus.config.kofi.environments.garden.description": "Change how Sunflowers look while in the Garden.\nAlso causes Sunflowers to visually change to Moonflowers at night."
 }
