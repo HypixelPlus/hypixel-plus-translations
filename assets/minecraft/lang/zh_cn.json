@@ -1,6 +1,6 @@
 {
   {
-  "hplus.about.version": "        适用于Minecraft26.1的0.24.5版本//Catharsis",
+  "hplus.about.version": "        适用于Minecraft26.1的0.27.0版本//Catharsis",
   "hplus.about.credit.title": "作者：",
   "hplus.about.credit": " ic22487",
   "hplus.about.affiliation": "             （与Hypixel无关联）",
@@ -12,7 +12,7 @@
   "hplus.about.other_stuff.alpha_spreadsheet": "Alpha物品表格",
   "hplus.about.other_stuff.scathabominations": "Scathabominations",
   "hplus.about.translator": "🌐翻译信息",
-  "hplus.about.translator.hover": "中文（简体）翻译：Internet_Yamero\n§7想帮助将此资源包翻译成其他语言吗？创建一个覆盖资源包即可！所有必要工具都可以在官方H+ Discord中找到。",
+  "hplus.about.translator.hover": "中文（简体）翻译：Internet_Yamero\n§7想帮助将此资源包翻译成其他语言吗？创建一个覆盖资源包即可！点击这里查看Github项目！",
   "hplus.about.row.padding": "                     ",
   "hplus.about.licensed": "授权协议",
 
@@ -63,11 +63,15 @@
   "hplus.config.toggle.auto": "自动 ",
   "hplus.config.toggle.left": "左侧 ",
   "hplus.config.toggle.right": "右侧 ",
+  "hplus.config.toggle.16x": "16x ",
+  "hplus.config.toggle.32x": "32x ",
   "hplus.config.toggle.big.both_big": "全部大型 ",
   "hplus.config.toggle.big.both_small": "全部小型 ",
   "hplus.config.toggle.aote_aotv.etherwarp": "Etherwarp ",
   "hplus.config.toggle.aote_aotv.all_spoons": "所有铲子 ",
   "hplus.config.toggle.aote_aotv.all_swords": "所有剑 ",
+  "hplus.config.toggle.dungeonbreaker.blunt": "平钝端",
+  "hplus.config.toggle.dungeonbreaker.sharp": "尖锐端",
   "hplus.config.toggle.pets.arachnophobia.default": "默认模型",
   "hplus.config.toggle.pets.arachnophobia.no_spiders": "无蜘蛛",
   "hplus.config.toggle.pets.arachnophobia.no_tarantulas": "无Tarantula",
@@ -276,6 +280,7 @@
   "hplus.config.items.other.murder_mystery": "切换密室杀手武器",
   "hplus.config.items.other.murder_mystery.description": "启用或禁用密室杀手中的武器纹理。（§c损坏§7）",
 
+
   "hplus.config.tweaks.aote_aotv": "Aspect of the End/Void调整",
   "hplus.config.tweaks.aote_aotv.description": "决定Aspect of the End/Void所使用的纹理。",
 
@@ -284,6 +289,9 @@
 
   "hplus.config.tweaks.legacy_treecapitator": "旧版Treecapitator",
   "hplus.config.tweaks.legacy_treecapitator.description": "将Treecapitator恢复为Galatea发布前的黑曜石纹理。",
+
+  "hplus.config.tweaks.legacy_giants_sword": "旧版Giant's Sword",
+  "hplus.config.tweaks.legacy_giants_sword.description": "将Giant's Sword恢复为旧版模型与纹理（超大的原版铁剑）。",
 
   "hplus.config.tweaks.totem_of_corruption": "腐化图腾放置模型",
   "hplus.config.tweaks.totem_of_corruption.description": "决定放置后的腐化图腾是否使用自定义模型。",
@@ -296,6 +304,9 @@
 
   "hplus.config.tweaks.left_handed_gloves": "左手手套与护手",
   "hplus.config.tweaks.left_handed_gloves.description": "决定手套和护手显示左手或右手模型。",
+
+  "hplus.config.tweaks.dungeonbreaker": "反转Dungeonbreaker",
+  "hplus.config.tweaks.dungeonbreaker.description": "决定使用Dungeonbreaker的哪一侧来破坏。",
 
   "hplus.config.tweaks.armor.models": "切换护甲模型",
   "hplus.config.tweaks.armor.models.description": "启用或禁用显示在玩家模型上的护甲纹理。",
@@ -426,6 +437,9 @@
   "hplus.config.animation.items.haunt": "Haunt Button害羞",
   "hplus.config.animation.items.haunt.description": "修改地下城中使用Haunt Button时是否隐藏。",
 
+  "hplus.config.animation.items.box_open": "Raffle Loot Box开启动画",
+  "hplus.config.animation.items.box_open.description": "修改开启Raffle Loot Box时是否播放动画。",
+
   "hplus.config.animation.easter_eggs.held_item_idle": "手持物品待机动画",
   "hplus.config.animation.easter_eggs.held_item_idle.description": "切换各种仅在手持物品时出现的彩蛋动画。",
 
@@ -472,4 +486,7 @@
 
   "hplus.config.kofi.environments.dwarven_fog": "切换矮人迷雾",
   "hplus.config.kofi.environments.dwarven_fog.description": "启用或禁用矮人矿山和极寒隧道中的雾效。"
+
+  "hplus.config.kofi.environments.garden": "切换花园作物",
+  "hplus.config.kofi.environments.garden.description": "改变向日葵在花园中的外观。此外，还会使向日葵在夜间从视觉上变为月亮花。"
 }
