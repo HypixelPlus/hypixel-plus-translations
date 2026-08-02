@@ -1,4 +1,4 @@
-Any lang files uploaded to this repo will be included in Hypixel+ when it updates.
+Any lang files uploaded to this repo will be included in Hypixel+ when it next updates.
 
 **If want to create your own translation overlay, you are free to put it on Modrinth as long as these conditions are met:**<br>
 • Your overlay resource pack has Hypixel+ marked as a dependency<br>
