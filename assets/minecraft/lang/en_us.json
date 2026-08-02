@@ -1,0 +1,475 @@
+{
+  "hplus.about.version": "        0.24.5 for Minecraft 26.1 // Catharsis",
+  "hplus.about.credit.title": "Created by: ",
+  "hplus.about.credit": " ic22487",
+  "hplus.about.affiliation": "             (Not affiliated with Hypixel)",
+  "hplus.about.discord": " Join the official Hypixel+ Discord!",
+  "hplus.about.modrinth": " Check us out on Modrinth!",
+  "hplus.about.kofi": " Become a supporter on Ko-Fi!",
+  "hplus.about.other_stuff": "Check out my other stuff:",
+  "hplus.about.other_stuff.items_spreadsheet": "SkyBlock Items Spreadsheet",
+  "hplus.about.other_stuff.alpha_spreadsheet": "Alpha Items Spreadsheet",
+  "hplus.about.other_stuff.scathabominations": "Scathabominations",
+  "hplus.about.translator": "🌐 Translation Info",
+  "hplus.about.translator.hover": "English (US) Translation by ic22487\n§7Want to help translate this pack into other languages? Create an overlay pack that does! All of the necessary tools can be found on the Official H+ Discord.",
+  "hplus.about.row.padding": "                     ",
+  "hplus.about.licensed": "Licensed ",
+
+  "hplus.config.warning.leave_this_lang_field_blank": "",
+  "hplus.config.tab.items": "Items",
+  "hplus.config.tab.items.items": "Items",
+  "hplus.config.tab.items.weapons": "Weapons",
+  "hplus.config.tab.items.tools": "Tools",
+  "hplus.config.tab.items.events": "Events",
+  "hplus.config.tab.items.cosmetics": "Cosmetics",
+  "hplus.config.tab.items.storage": "Storage",
+  "hplus.config.tab.items.other": "Other",
+  "hplus.config.tab.tweaks": "Tweaks",
+  "hplus.config.tab.tweaks.armor": "Armor",
+  "hplus.config.tab.tweaks.big_items": "Big Items",
+  "hplus.config.tab.animation": "Animation",
+  "hplus.config.tab.animation.weapons": "Weapons",
+  "hplus.config.tab.animation.tools": "Tools",
+  "hplus.config.tab.animation.items": "Items",
+  "hplus.config.tab.animation.easter_eggs": "Easter Eggs",
+  "hplus.config.tab.ui": "UI",
+  "hplus.config.tab.ui.more_coming_soon": "More toggles coming soon™",
+  "hplus.config.tab.kofi": "Ko-Fi",
+  "hplus.config.tab.kofi.header": "This tab only affects Ko-Fi betas.",
+  "hplus.config.tab.kofi.header2": "If you want early access to updates and new features, you can join by ",
+  "hplus.config.tab.kofi.header_button": "clicking here!",
+  "hplus.config.tab.kofi.pets": "Pets",
+  "hplus.config.tab.kofi.pets.disclaimer": "Pet Models will be released to the public once all base models are completed.",
+  "hplus.config.tab.kofi.environments": "Environments",
+  "hplus.config.tab.kofi.environments.disclaimer": "Environments will be released to the public once they are completed.",
+  "hplus.config.tab.about": "About",
+
+  "hplus.config.toggle.on": "ON ",
+  "hplus.config.toggle.on.no_space": "ON",
+  "hplus.config.toggle.on.negative": "",
+  "hplus.config.toggle.on.balance": "",
+  "hplus.config.toggle.off": "OFF ",
+  "hplus.config.toggle.off.no_space": "OFF",
+  "hplus.config.toggle.off.negative": "",
+  "hplus.config.toggle.off.balance": "",
+  "hplus.config.toggle.off_warn": "⚠ OFF ",
+  "hplus.config.toggle.off_warn.no_space": "⚠ OFF",
+  "hplus.config.toggle.half_and_half": "Half & Half ",
+  "hplus.config.toggle.vanilla": "Vanilla ",
+  "hplus.config.toggle.vanilla.no_space": "Vanilla",
+  "hplus.config.toggle.hplus": "Hypixel+ ",
+  "hplus.config.toggle.50_percent": "50% ",
+  "hplus.config.toggle.auto": "Auto ",
+  "hplus.config.toggle.left": "Left ",
+  "hplus.config.toggle.right": "Right ",
+  "hplus.config.toggle.big.both_big": "Both Big ",
+  "hplus.config.toggle.big.both_small": "Both Small ",
+  "hplus.config.toggle.aote_aotv.etherwarp": "Etherwarp ",
+  "hplus.config.toggle.aote_aotv.all_spoons": "All Spoons ",
+  "hplus.config.toggle.aote_aotv.all_swords": "All Swords ",
+  "hplus.config.toggle.pets.arachnophobia.default": "Default Model",
+  "hplus.config.toggle.pets.arachnophobia.no_spiders": "No Spiders",
+  "hplus.config.toggle.pets.arachnophobia.no_tarantulas": "No Tarantulas",
+  "hplus.config.toggle.pets.arachnophobia.disable_all": "Disable All",
+  "hplus.config.toggle.pets.arachnophobia.funny_mode": "Funny Mode",
+  "hplus.config.toggle.pets.arachnophobia.funny_mode.description": "Makes them extra terrifying. Not for the feint of heart.",
+  
+  "hplus.config.items.accessories": "Toggle Accessories",
+  "hplus.config.items.accessories.description": "Enable or disable Accessory textures.",
+
+  "hplus.config.items.armor": "Toggle Armor",
+  "hplus.config.items.armor.description": "Enable or disable Armor textures.",
+
+  "hplus.config.items.equipment": "Toggle Equipment",
+  "hplus.config.items.equipment.description": "Enable or disable Equipment textures.",
+
+  "hplus.config.items.weapons": "Toggle All Weapons",
+  "hplus.config.items.weapons.description": "Enable or disable §CALL§7 Weapon textures.",
+
+  "hplus.config.items.weapons.bows": "Toggle Bows",
+  "hplus.config.items.weapons.bows.description": "Enable or disable Bow textures.",
+
+  "hplus.config.items.weapons.longswords": "Toggle Longswords",
+  "hplus.config.items.weapons.longswords.description": "Enable or disable Longsword textures.",
+
+  "hplus.config.items.weapons.scythes": "Toggle Scythes",
+  "hplus.config.items.weapons.scythes.description": "Enable or disable Scythe textures.",
+
+  "hplus.config.items.weapons.staves": "Toggle Staves",
+  "hplus.config.items.weapons.staves.description": "Enable or disable Staff textures.",
+
+  "hplus.config.items.weapons.swords": "Toggle Swords",
+  "hplus.config.items.weapons.swords.description": "Enable or disable Sword textures.",
+
+  "hplus.config.items.weapons.wands": "Toggle Wands",
+  "hplus.config.items.weapons.wands.description": "Enable or disable Wand textures.",
+
+  "hplus.config.items.weapons.whips": "Toggle Whips",
+  "hplus.config.items.weapons.whips.description": "Enable or disable Whip textures.",
+
+  "hplus.config.items.tools": "Toggle All Tools",
+  "hplus.config.items.tools.description": "Enable or disable §cALL§7 Tool textures.",
+
+  "hplus.config.items.tools.abiphones": "Toggle Abiphones",
+  "hplus.config.items.tools.abiphones.description": "Enable or disable Abiphone textures.",
+
+  "hplus.config.items.tools.arrows": "Toggle Arrows",
+  "hplus.config.items.tools.arrows.description": "Enable or disable Arrow textures.",
+
+  "hplus.config.items.tools.biome_sticks": "Toggle Biome Sticks",
+  "hplus.config.items.tools.biome_sticks.description": "Enable or disable Biome Stick textures.",
+
+  "hplus.config.items.tools.combat_tools": "Toggle Combat Tools",
+  "hplus.config.items.tools.combat_tools.description": "Enable or disable Combat Tool textures.",
+
+  "hplus.config.items.tools.drills": "Toggle Drills",
+  "hplus.config.items.tools.drills.description": "Enable or disable Drill textures.",
+
+  "hplus.config.items.tools.farming_tools": "Toggle Farming Tools",
+  "hplus.config.items.tools.farming_tools.description": "Enable or disable Farming Tool textures.",
+
+  "hplus.config.items.tools.garden_hoes": "Toggle Garden Hoes",
+  "hplus.config.items.tools.garden_hoes.description": "Enable or disable Garden Hoe textures.",
+
+  "hplus.config.items.tools.fishing_tools": "Toggle Fishing Tools",
+  "hplus.config.items.tools.fishing_tools.description": "Enable or disable Fishing Tool textures.",
+
+  "hplus.config.items.tools.fishing_rods": "Toggle Fishing Rods",
+  "hplus.config.items.tools.fishing_rods.description": "Enable or disable Fishing Rod textures.",
+
+  "hplus.config.items.tools.rod_parts": "Toggle Rod Parts",
+  "hplus.config.items.tools.rod_parts.description": "Enable or disable Rod Part textures.",
+
+  "hplus.config.items.tools.foraging_tools": "Toggle Foraging Tools",
+  "hplus.config.items.tools.foraging_tools.description": "Enable or disable Foraging Tool textures.",
+
+  "hplus.config.items.tools.mining_tools": "Toggle Mining Tools",
+  "hplus.config.items.tools.mining_tools.description": "Enable or disable Mining Tool textures.",
+
+  "hplus.config.items.items": "Toggle All Items",
+  "hplus.config.items.items.description": "Enable or disable §CALL§7 Item textures.",
+
+  "hplus.config.items.items.crimson_isle": "Toggle Crimson Isle Items",
+  "hplus.config.items.items.crimson_isle.description": "Enable or disable textures for all items obtained from the Crimson Isle.",
+
+  "hplus.config.items.items.dungeons": "Toggle Dungeons Items",
+  "hplus.config.items.items.dungeons.description": "Enable or disable textures for all items obtained from Dungeons.",
+
+  "hplus.config.items.items.end": "Toggle End Items",
+  "hplus.config.items.items.end.description": "Enable or disable textures for all items obtained from The End.",
+
+  "hplus.config.items.items.farming": "Toggle Farming Items",
+  "hplus.config.items.items.farming.description": "Enable or disable textures for all items obtained from Farming.",
+
+  "hplus.config.items.items.farming_mutations": "Toggle Farming Mutations",
+  "hplus.config.items.items.farming_mutations.description": "Enable or disable Greenhouse Mutation textures.",
+
+  "hplus.config.items.items.fishing": "Toggle Fishing Items",
+  "hplus.config.items.items.fishing.description": "Enable or disable textures for all items obtained from Fishing.",
+
+  "hplus.config.items.items.fishing_bait": "Toggle Fishing Bait",
+  "hplus.config.items.items.fishing_bait.description": "Enable or disable Fishing Bait textures.",
+
+  "hplus.config.items.items.trophy_fish": "Toggle Trophy Fish",
+  "hplus.config.items.items.trophy_fish.description": "Enable or disable Crimson Isle Trophy Fish textures.",
+
+  "hplus.config.items.items.trophy_frogs": "Toggle Trophy Frogs",
+  "hplus.config.items.items.trophy_frogs.description": "Enable or disable Lotus Atoll Trophy Frog textures.",
+
+  "hplus.config.items.items.foraging": "Toggle Foraging Items",
+  "hplus.config.items.items.foraging.description": "Enable or disable textures for all items obtained from Foraging.",
+
+  "hplus.config.items.items.mining": "Toggle Mining Items",
+  "hplus.config.items.items.mining.description": "Enable or disable textures for all items obtained from Mining.",
+
+  "hplus.config.items.items.gemstones": "Toggle Gemstones",
+  "hplus.config.items.items.gemstones.description": "Enable or disable Gemstone textures.",
+
+  "hplus.config.items.items.modifiers": "Toggle Modifiers",
+  "hplus.config.items.items.modifiers.description": "Enable or disable Modifier item textures.",
+
+  "hplus.config.items.items.pet_items": "Toggle Pet Items",
+  "hplus.config.items.items.pet_items.description": "Enable or disable Pet Item textures.",
+
+  "hplus.config.items.items.potions": "Toggle Potions",
+  "hplus.config.items.items.potions.description": "Enable or disable Potion textures.",
+
+  "hplus.config.items.items.power_stones": "Toggle Power Stones",
+  "hplus.config.items.items.power_stones.description": "Enable or disable Power Stone textures.",
+
+  "hplus.config.items.items.reforge_stones": "Toggle Reforge Stones",
+  "hplus.config.items.items.reforge_stones.description": "Enable or disable Reforge Stone textures.",
+
+  "hplus.config.items.items.rift": "Toggle Rift Items",
+  "hplus.config.items.items.rift.description": "Enable or disable textures for all items obtained from The Rift.",
+
+  "hplus.config.items.items.slayer": "Toggle Slayer Items",
+  "hplus.config.items.items.slayer.description": "Enable or disable textures for all items obtained from Slayers.",
+
+  "hplus.config.items.items.special": "Toggle Special Items",
+  "hplus.config.items.items.special.description": "Enable or disable textures for most Special Rarity items.",
+
+  "hplus.config.items.items.the_fish": "Toggle The Fish",
+  "hplus.config.items.items.the_fish.description": "Enable or disable textures of The Fish.",
+
+  "hplus.config.items.items.travel_scrolls": "Toggle Travel Scrolls",
+  "hplus.config.items.items.travel_scrolls.description": "Enable or disable Travel Scroll textures.",
+
+  "hplus.config.items.items.misc": "Toggle Miscellaneous Items",
+  "hplus.config.items.items.misc.description": "Enable or disable item textures that don't fit any of the other toggles.",
+
+  "hplus.config.items.events.century": "Toggle Century Raffle Items",
+  "hplus.config.items.events.century.description": "Enable or disable textures for all items obtained from Raffle of the Century.",
+
+  "hplus.config.items.events.chuckleton": "Toggle Chuckleton Items",
+  "hplus.config.items.events.chuckleton.description": "Enable or disable textures for all items obtained from Honk and Seek.",
+
+  "hplus.config.items.events.great_spook": "Toggle Great Spook Items",
+  "hplus.config.items.events.great_spook.description": "Enable or disable textures for all items obtained from the Great Spook.",
+
+  "hplus.config.items.events.harvest_feast": "Toggle Harvest Feast Items",
+  "hplus.config.items.events.harvest_feast.description": "Enable or disable textures for all items obtained from the Harvest and Grand Feasts.",
+
+  "hplus.config.items.events.hoppity": "Toggle Hoppity Items",
+  "hplus.config.items.events.hoppity.description": "Enable or disable textures for all items obtained from Hoppity's Hunt.",
+
+  "hplus.config.items.events.jerrys_workshop": "Toggle Jerry's Workshop Items",
+  "hplus.config.items.events.jerrys_workshop.description": "Enable or disable textures for all items obtained from Season of Jerry.",
+
+  "hplus.config.items.events.mythological": "Toggle Mythological Items",
+  "hplus.config.items.events.mythological.description": "Enable or disable textures for all items obtained from Mythological Ritual.",
+
+  "hplus.config.items.events.spooky_festival": "Toggle Spooky Festival Items",
+  "hplus.config.items.events.spooky_festival.description": "Enable or disable textures for all items obtained from Spooky Festival.",
+
+  "hplus.config.items.events.zodiac": "Toggle Zodiac Items",
+  "hplus.config.items.events.zodiac.description": "Enable or disable textures for all items obtained from \"Year of\" events.",
+
+  "hplus.config.items.cosmetics.backpack_skins": "Toggle Backpack Skins",
+  "hplus.config.items.cosmetics.backpack_skins.description": "Enable or disable Backpack Skin textures.",
+
+  "hplus.config.items.cosmetics.dyes": "Toggle Dyes",
+  "hplus.config.items.cosmetics.dyes.description": "Enable or disable Dye textures.",
+
+  "hplus.config.items.cosmetics.runes": "Toggle Runes",
+  "hplus.config.items.cosmetics.runes.description": "Enable or disable Basic Rune textures.",
+
+  "hplus.config.items.cosmetics.unique_runes": "Toggle Unique Runes",
+  "hplus.config.items.cosmetics.unique_runes.description": "Enable or disable Fire Sale Rune textures.",
+
+  "hplus.config.items.storage.backpacks": "Toggle Backpacks",
+  "hplus.config.items.storage.backpacks.description": "Enable or disable Backpack textures.",
+
+  "hplus.config.items.storage.sacks": "Toggle Sacks",
+  "hplus.config.items.storage.sacks.description": "Enable or disable Sack textures.",
+
+  "hplus.config.items.other.currency": "Toggle Currency",
+  "hplus.config.items.other.currency.description": "Enable or disable Dropped Currency textures. (Coins, Essence, etc)",
+
+  "hplus.config.items.other.glitched_items": "Toggle Glitched Items",
+  "hplus.config.items.other.glitched_items.description": "Enable or disable SkyBlock Glitched Item textures.",
+
+  "hplus.config.items.other.bedwars": "Toggle Bedwars Items",
+  "hplus.config.items.other.bedwars.description": "Enable or disable item textures from Bedwars and Bedwars Dreams. (§cBroken§7)",
+  
+  "hplus.config.items.other.murder_mystery": "Toggle Murder Mystery Weapons",
+  "hplus.config.items.other.murder_mystery.description": "Enable or disable weapon textures from Murder Mystery. (§cBroken§7)",
+  
+
+  "hplus.config.tweaks.aote_aotv": "Aspect of the End/Void Tweaks",
+  "hplus.config.tweaks.aote_aotv.description": "Decides which textures are used for Aspect of the End and Aspect of the Void.",
+
+  "hplus.config.tweaks.legacy_axes": "Legacy Axes",
+  "hplus.config.tweaks.legacy_axes.description": "Reverts weapons that were changed when Galatea released back into Axes.",
+
+  "hplus.config.tweaks.legacy_treecapitator": "Legacy Treecapitator",
+  "hplus.config.tweaks.legacy_treecapitator.description": "Reverts Treecapitator back to its obsidian-based texture from before Galatea's release.",
+
+  "hplus.config.tweaks.totem_of_corruption": "Totem of Corruption Placed Model",
+  "hplus.config.tweaks.totem_of_corruption.description": "Decides whether to use a custom model for the placed Totem of Corruption.",
+
+  "hplus.config.tweaks.golden_fish": "Golden Fish Entity Model",
+  "hplus.config.tweaks.golden_fish.description": "Decides whether to use a custom model when encountering a Golden Fish.",
+
+  "hplus.config.tweaks.vanilla_garden_crops": "Vanilla Garden Crops",
+  "hplus.config.tweaks.vanilla_garden_crops.description": "Changes the design of the Sunflower, Moonflower, and Wild Rose textures to align more with vanilla.",
+
+  "hplus.config.tweaks.left_handed_gloves": "Left-handed Gloves & Gauntlets",
+  "hplus.config.tweaks.left_handed_gloves.description": "Decides whether Gloves and Gauntlets display their left or right-handed model.",
+
+  "hplus.config.tweaks.armor.models": "Toggle Armor Models",
+  "hplus.config.tweaks.armor.models.description": "Enable or Disable Armor textures displayed on the player model.",
+
+  "hplus.config.tweaks.armor.icons": "Toggle Armor Icons",
+  "hplus.config.tweaks.armor.icons.description": "Enable or Disable Armor inventory icon textures.",
+
+  "hplus.config.tweaks.armor.masks": "Toggle Armor Masks",
+  "hplus.config.tweaks.armor.masks.description": "Enable or Disable Mask Armor icon textures.",
+
+  "hplus.config.tweaks.armor.blocks": "Toggle Armor Block Helmets",
+  "hplus.config.tweaks.armor.blocks.description": "Enable or Disable Block Helmet armor textures.",
+
+  "hplus.config.tweaks.armor.player_heads": "Toggle Armor Player Heads",
+  "hplus.config.tweaks.armor.player_heads.description": "Enable or Disable Player Head Armor retextures. §8(Currently only Wither Armor)",
+
+  "hplus.config.tweaks.armor.dye": "Toggle Armor Dye",
+  "hplus.config.tweaks.armor.dye.description": "Enable or Disable whether Armor is dyeable.",
+
+  "hplus.config.tweaks.big.staves": "Big Staves",
+  "hplus.config.tweaks.big.staves.description": "Decides staff sizes when held in hand and in the UI.",
+
+  "hplus.config.tweaks.big.scythes": "Big Scythes",
+  "hplus.config.tweaks.big.scythes.description": "Decides scythe sizes when held in hand and in the UI.",
+  
+  "hplus.config.tweaks.big.longswords": "Big Longswords",
+  "hplus.config.tweaks.big.longswords.description": "Decides longsword and katana sizes when held in hand and in the UI.",
+
+  "hplus.config.tweaks.big.fishing_rods": "Big Fishing Rods",
+  "hplus.config.tweaks.big.fishing_rods.description": "Decides the size of the Giant Fishing Rod when held in hand and in the UI.",
+
+  "hplus.config.tweaks.big.misc": "Big Misc Items",
+  "hplus.config.tweaks.big.misc.description": "Decides the size of other (largely unused) giant items when held in hand and in the UI.",
+
+  "hplus.config.animation": "Toggle All Animations",
+  "hplus.config.animation.description": "Enable or disable §CALL§7 item animations.",
+
+  "hplus.config.animation.textures": "Toggle All Texture Animations",
+  "hplus.config.animation.textures.description": "Enable or disable §CALL§7 animated textures.",
+
+  "hplus.config.animation.weapons.shortbow": "Shortbow Fix",
+  "hplus.config.animation.weapons.shortbow.description": "Change whether Shortbows visibly fire arrows when left-clicking.",
+
+  "hplus.config.animation.weapons.aotj": "Aspect of the Jerry Parley Brows",
+  "hplus.config.animation.weapons.aotj.description": "Change whether Aspect of the Jerry rolls its eyebrows on right-click.",
+
+  "hplus.config.animation.weapons.aote_aotv": "Aspect of the End/Void Teleport Flash",
+  "hplus.config.animation.weapons.aote_aotv.description": "Change whether Aspect of the End/Void flash on teleport.",
+
+  "hplus.config.animation.weapons.aote_aotv_etherwarp": "Aspect of the End/Void Etherwarp Opening",
+  "hplus.config.animation.weapons.aote_aotv_etherwarp.description": "Change whether Aspect of the End/Void open when using Etherwarp.",
+
+  "hplus.config.animation.weapons.necron_blade": "Necron Blade Scroll Flash",
+  "hplus.config.animation.weapons.necron_blade.description": "Change whether Necron's Blade and its upgraded forms flash when using scroll abilities.",
+
+  "hplus.config.animation.weapons.zombie_sword": "Zombie Sword Heal Flash",
+  "hplus.config.animation.weapons.zombie_sword.description": "Change whether Zombie Swords flash when healing.",
+
+  "hplus.config.animation.weapons.hollow_wand": "Hollow Wand Glyphs",
+  "hplus.config.animation.weapons.hollow_wand.description": "Change whether Hollow Wand visually shows glyphs being inputted.",
+
+  "hplus.config.animation.weapons.celeste_starlight_wand": "Celeste/Starlight Wand Flash",
+  "hplus.config.animation.weapons.celeste_starlight_wand.description": "Change whether Celeste and Starlight Wands flash when casting.",
+
+  "hplus.config.animation.weapons.ink_wand": "Ink Wand Squish",
+  "hplus.config.animation.weapons.ink_wand.description": "Change whether Ink Wand squishes when casting Ink Bomb.",
+
+  "hplus.config.animation.weapons.pigman_sword": "Pigman Sword Fire",
+  "hplus.config.animation.weapons.pigman_sword.description": "Change whether Pigman Sword displays fire when casting Burning Souls.",
+
+  "hplus.config.animation.weapons.sinseeker_scythe": "Sinseeker Scythe Sinrecall Flash",
+  "hplus.config.animation.weapons.sinseeker_scythe.description": "Change whether Sinseeker Scythe flashes when casting Sinrecall.",
+
+  "hplus.config.animation.weapons.voodoo_doll": "Voodoo Doll Stab",
+  "hplus.config.animation.weapons.voodoo_doll.description": "Change whether Voodoo Dolls get stabbed when casting Acupuncture.",
+
+  "hplus.config.animation.tools.drill": "Drill Spinning Animation",
+  "hplus.config.animation.tools.drill.description": "Change whether Drills spin when mining.",
+
+  "hplus.config.animation.tools.vacuum": "Vacuum Vortex Animation",
+  "hplus.config.animation.tools.vacuum.description": "Change whether Vacuums have debris inside when used.",
+
+  "hplus.config.animation.tools.hydrocan": "HydroCan™ Watering Animation",
+  "hplus.config.animation.tools.hydrocan.description": "Change whether HydroCan™s visually pour and fill up with water.",
+
+  "hplus.config.animation.tools.plant_diagnostics_tool": "Plant Diagnostics Tool Animation",
+  "hplus.config.animation.tools.plant_diagnostics_tool.description": "Change whether the Plant Diagnostics Tool's meter moves when used.",
+
+  "hplus.config.animation.tools.abiphone": "Abiphone Display Animations",
+  "hplus.config.animation.tools.abiphone.description": "Change whether Abiphones turn on when held or hovered over.",
+
+  "hplus.config.animation.tools.wand_of_healing": "Wand of Healing Flash",
+  "hplus.config.animation.tools.wand_of_healing.description": "Change whether the Wands of Healing, Mending, Restoration, Atonement, and Strength flash when used.",
+
+  "hplus.config.animation.tools.aotl": "Aspect of the Leech Transmission",
+  "hplus.config.animation.tools.aotl.description": "Change whether Aspect of the Leech opens when casting Weird Transmission.",
+
+  "hplus.config.animation.tools.royal_pigeon": "Royal Pigeon Call",
+  "hplus.config.animation.tools.royal_pigeon.description": "Change whether Royal Pigeons visually squawk when used.",
+
+  "hplus.config.animation.tools.egglocator": "Egglocator Blink",
+  "hplus.config.animation.tools.egglocator.description": "Change whether Egglocators blink when used.",
+
+  "hplus.config.animation.tools.soul_esoward": "Soul Esoward Blink",
+  "hplus.config.animation.tools.soul_esoward.description": "Change whether Soul Esowards blink when used.",
+
+  "hplus.config.animation.tools.etherwarp_conduit": "Etherwarp Conduite Open",
+  "hplus.config.animation.tools.etherwarp_conduit.description": "Change whether Etherwarp Conduits open when sneaking.",
+
+  "hplus.config.animation.tools.detective_scanner": "Detective Scanner Sniff",
+  "hplus.config.animation.tools.detective_scanner.description": "Change whether Detective Scanners sniff when used.",
+
+  "hplus.config.animation.tools.healing_melon": "Healing Melon Eating",
+  "hplus.config.animation.tools.healing_melon.description": "Change whether Healing Melons visually get eaten when used.",
+
+  "hplus.config.animation.tools.holy_ice": "Holy Ice Flash",
+  "hplus.config.animation.tools.holy_ice.description": "Change whether Holy Ice flashes when used.",
+
+  "hplus.config.animation.items.spraying": "Spraying Animations",
+  "hplus.config.animation.items.spraying.description": "Change whether Sprayonator, Pest Repellent, and Spray Cans visually spray when used.",
+
+  "hplus.config.animation.items.ubiks_cube": "Ubik's Cube Rotation",
+  "hplus.config.animation.items.ubiks_cube.description": "Change whether Ubik's Cube rotates when used.",
+
+  "hplus.config.animation.items.revive_stone": "Revive Stone Breaking",
+  "hplus.config.animation.items.revive_stone.description": "Change whether Revive Stones visually break when used.",
+
+  "hplus.config.animation.items.haunt": "Haunt Button Shyness",
+  "hplus.config.animation.items.haunt.description": "Change whether the Haunt Button in dungeons hides when used.",
+
+  "hplus.config.animation.easter_eggs.held_item_idle": "Held Item Idle animations",
+  "hplus.config.animation.easter_eggs.held_item_idle.description": "Toggles various easter egg animations that only appear when held in hand.",
+
+  "hplus.config.animation.easter_eggs.right_click_inspect": "Right-click Inspect Animations",
+  "hplus.config.animation.easter_eggs.right_click_inspect.description": "Toggles various easter egg animations that only appear when right-click is held.",
+
+  "hplus.config.ui": "Toggle All UI Icons",
+  "hplus.config.ui.description": "Enable or disable §CALL§7 UI Icons.",
+
+  "hplus.config.ui.fire_overlay": "Toggle Fire Overlay",
+  "hplus.config.ui.fire_overlay.description": "Change the transparency of the first-person fire overlay.",
+  "hplus.config.ui.fire_overlay.description2": "May interact strangely with some shaders.",
+
+  "hplus.config.ui.player_list_ping": "Toggle Player List Ping",
+  "hplus.config.ui.player_list_ping.description": "Removes the Ping indicators from the player list shown when pressing ",
+  "hplus.config.ui.player_list_ping.description2": ".",
+
+  "hplus.config.kofi.pets.models": "Toggle Pet Models",
+  "hplus.config.kofi.pets.models.description": "Enable or disable overworld pet models.",
+
+  "hplus.config.kofi.pets.icons": "Toggle Pet Icons",
+  "hplus.config.kofi.pets.icons.description": "Enable or disable pet UI icons.",
+
+  "hplus.config.kofi.pets.skins": "Toggle Pet Skins",
+  "hplus.config.kofi.pets.skins.description": "Change whether Pet Skins appear as heads or have models and textures.",
+
+  "hplus.config.kofi.pets.arachnophobia": "Arachnophobia Mode",
+  "hplus.config.kofi.pets.arachnophobia.description": "Disables the Spider and Tarantula pet models.",
+
+  "hplus.config.kofi.environments.dwarven_metals": "Toggle Dwarven Metals",
+  "hplus.config.kofi.environments.dwarven_metals.description": "Enable or disable Dwarven Metal block textures throughout all of SkyBlock.",
+
+  "hplus.config.kofi.environments.gemstones": "Toggle Gemstones",
+  "hplus.config.kofi.environments.gemstones.description": "Enable or disable Gemstone block textures throughout all of SkyBlock.",
+
+  "hplus.config.kofi.environments.crystal_hollows": "Toggle Crystal Hollows Environment",
+  "hplus.config.kofi.environments.crystal_hollows.description": "Enable or disable environment textures in the Crystal Hollows.",
+
+  "hplus.config.kofi.environments.glacite_tunnels": "Toggle Glacite Tunnels Environment",
+  "hplus.config.kofi.environments.glacite_tunnels.description": "Enable or disable environment textures in the Glacite Tunnels.",
+
+  "hplus.config.kofi.environments.crimson_isle": "Toggle Crimson Isle Environment",
+  "hplus.config.kofi.environments.crimson_isle.description": "Enable or disable environment textures in the Crimson Isle.",
+
+  "hplus.config.kofi.environments.dwarven_fog": "Toggle Dwarven Fog",
+  "hplus.config.kofi.environments.dwarven_fog.description": "Enable or disable the fog effect in the Dwarven Mines and Glacite Tunnels."
+}
