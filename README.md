@@ -11,4 +11,6 @@ Remember to include your name in `hplus.about.translator.hover` if you contribut
 And some advice:<br>
 `toggle.on.negative`, `toggle.on.balance`, `toggle.off.negative`, and `toggle.off.balance` can be used to balance out the icon spacing used in the Ko-Fi tab (You will find this important if you need to change the on/off toggle text)
 
+If you would like the Translator role on the H+ Discord, which grants access to the translator chat and sends pings and changelogs whenever translation keys update, DM ic22487 on discord!
+
 Thank you!
