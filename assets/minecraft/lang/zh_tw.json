@@ -1,5 +1,4 @@
 {
-  {
   "hplus.about.version": "        適用於Minecraft26.1的0.27.0版本//Catharsis",
   "hplus.about.credit.title": "作者：",
   "hplus.about.credit": " ic22487",
@@ -77,7 +76,7 @@
   "hplus.config.toggle.pets.arachnophobia.no_tarantulas": "無Tarantula",
   "hplus.config.toggle.pets.arachnophobia.disable_all": "全部禁用",
   "hplus.config.toggle.pets.arachnophobia.funny_mode": "搞笑模式",
-  "hplus.config.toggle.pets.arachnophobia.funny_mode.description": "讓它們變得更加恐怖。不適合膽小者。"
+  "hplus.config.toggle.pets.arachnophobia.funny_mode.description": "讓它們變得更加恐怖。不適合膽小者。",
   
   "hplus.config.items.accessories": "切換飾品",
   "hplus.config.items.accessories.description": "啟用或禁用飾品紋理。",
@@ -167,7 +166,7 @@
   "hplus.config.items.items.farming.description": "啟用或禁用所有通過農業獲得的物品紋理。",
 
   "hplus.config.items.items.farming_mutations": "切換農業突變植物",
-  "hplus.config.items.items.farming_mutations.description": "啟用或禁用溫室突變植物紋理。"
+  "hplus.config.items.items.farming_mutations.description": "啟用或禁用溫室突變植物紋理。",
   
   "hplus.config.items.items.fishing": "切換釣魚物品",
   "hplus.config.items.items.fishing.description": "啟用或禁用所有通過釣魚獲得的物品紋理。",
@@ -248,7 +247,7 @@
   "hplus.config.items.events.spooky_festival.description": "啟用或禁用所有從Spooky Festival獲得的物品紋理。",
 
   "hplus.config.items.events.zodiac": "切換Year of活動物品",
-  "hplus.config.items.events.zodiac.description": "啟用或禁用所有從“Year of”活動獲得的物品紋理。"
+  "hplus.config.items.events.zodiac.description": "啟用或禁用所有從“Year of”活動獲得的物品紋理。",
   
   "hplus.config.items.cosmetics.backpack_skins": "切換背包外觀",
   "hplus.config.items.cosmetics.backpack_skins.description": "啟用或禁用背包外觀紋理。",
@@ -485,7 +484,7 @@
   "hplus.config.kofi.environments.crimson_isle.description": "啟用或禁用Crimson Isle中的環境紋理。",
 
   "hplus.config.kofi.environments.dwarven_fog": "切換矮人迷霧",
-  "hplus.config.kofi.environments.dwarven_fog.description": "啟用或禁用矮人礦山和極寒隧道中的霧效。" 
+  "hplus.config.kofi.environments.dwarven_fog.description": "啟用或禁用矮人礦山和極寒隧道中的霧效。",
 
   "hplus.config.kofi.environments.garden": "切換花園作物",
   "hplus.config.kofi.environments.garden.description": "改變向日葵在花園中的外觀。此外，還會使向日葵在夜間從視覺上變為月亮花。"

@@ -1,5 +1,4 @@
 {
-  {
   "hplus.about.version": "        适用于Minecraft26.1的0.27.0版本//Catharsis",
   "hplus.about.credit.title": "作者：",
   "hplus.about.credit": " ic22487",
@@ -77,7 +76,7 @@
   "hplus.config.toggle.pets.arachnophobia.no_tarantulas": "无Tarantula",
   "hplus.config.toggle.pets.arachnophobia.disable_all": "全部禁用",
   "hplus.config.toggle.pets.arachnophobia.funny_mode": "搞笑模式",
-  "hplus.config.toggle.pets.arachnophobia.funny_mode.description": "让它们变得更加恐怖。不适合胆小者。"
+  "hplus.config.toggle.pets.arachnophobia.funny_mode.description": "让它们变得更加恐怖。不适合胆小者。",
   
   "hplus.config.items.accessories": "切换饰品",
   "hplus.config.items.accessories.description": "启用或禁用饰品纹理。",
@@ -167,7 +166,7 @@
   "hplus.config.items.items.farming.description": "启用或禁用所有通过农业获得的物品纹理。",
 
   "hplus.config.items.items.farming_mutations": "切换农业突变植物",
-  "hplus.config.items.items.farming_mutations.description": "启用或禁用温室突变植物纹理。"
+  "hplus.config.items.items.farming_mutations.description": "启用或禁用温室突变植物纹理。",
 
   "hplus.config.items.items.fishing": "切换钓鱼物品",
   "hplus.config.items.items.fishing.description": "启用或禁用所有通过钓鱼获得的物品纹理。",
@@ -248,7 +247,7 @@
   "hplus.config.items.events.spooky_festival.description": "启用或禁用所有从Spooky Festival获得的物品纹理。",
 
   "hplus.config.items.events.zodiac": "切换Year of活动物品",
-  "hplus.config.items.events.zodiac.description": "启用或禁用所有从“Year of”活动获得的物品纹理。"
+  "hplus.config.items.events.zodiac.description": "启用或禁用所有从“Year of”活动获得的物品纹理。",
 
   "hplus.config.items.cosmetics.backpack_skins": "切换背包皮肤",
   "hplus.config.items.cosmetics.backpack_skins.description": "启用或禁用背包皮肤纹理。",
@@ -485,7 +484,7 @@
   "hplus.config.kofi.environments.crimson_isle.description": "启用或禁用Crimson Isle中的环境纹理。",
 
   "hplus.config.kofi.environments.dwarven_fog": "切换矮人迷雾",
-  "hplus.config.kofi.environments.dwarven_fog.description": "启用或禁用矮人矿山和极寒隧道中的雾效。"
+  "hplus.config.kofi.environments.dwarven_fog.description": "启用或禁用矮人矿山和极寒隧道中的雾效。",
 
   "hplus.config.kofi.environments.garden": "切换花园作物",
   "hplus.config.kofi.environments.garden.description": "改变向日葵在花园中的外观。此外，还会使向日葵在夜间从视觉上变为月亮花。"
