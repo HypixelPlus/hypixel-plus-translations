@@ -25,6 +25,8 @@
   "hplus.config.tab.items.storage": "儲存",
   "hplus.config.tab.items.other": "其他",
   "hplus.config.tab.tweaks": "調整",
+  "hplus.config.tab.tweaks.legacy": "舊版",
+  "hplus.config.tab.tweaks.custom_models": "自訂模型",
   "hplus.config.tab.tweaks.armor": "護甲",
   "hplus.config.tab.tweaks.big_items": "大型物品",
   "hplus.config.tab.animation": "動畫",
@@ -59,6 +61,9 @@
   "hplus.config.toggle.vanilla.no_space": "原版",
   "hplus.config.toggle.hplus": "Hypixel+ ",
   "hplus.config.toggle.50_percent": "50% ",
+  "hplus.config.toggle.default": "預設",
+  "hplus.config.toggle.default.no_space": "預設",
+  "hplus.config.toggle.colored": "彩色",
   "hplus.config.toggle.auto": "自動 ",
   "hplus.config.toggle.left": "左側 ",
   "hplus.config.toggle.right": "右側 ",
@@ -147,6 +152,9 @@
   "hplus.config.items.tools.foraging_tools": "切換伐木工具",
   "hplus.config.items.tools.foraging_tools.description": "啟用或禁用伐木工具紋理。",
 
+  "hplus.config.items.tools.hunting_tools": "切換狩獵工具",
+  "hplus.config.items.tools.hunting_tools.description": "啟用或禁用狩獵工具紋理。",
+
   "hplus.config.items.tools.mining_tools": "切換釆礦工具",
   "hplus.config.items.tools.mining_tools.description": "啟用或禁用釆礦工具紋理。",
 
@@ -182,6 +190,9 @@
 
   "hplus.config.items.items.foraging": "切換伐木物品",
   "hplus.config.items.items.foraging.description": "啟用或禁用所有通過伐木獲得的物品紋理。",
+
+  "hplus.config.items.items.hunting": "切換狩獵物品",
+  "hplus.config.items.items.hunting.description": "啟用或禁用所有通过狩獵獲得的物品紋理。",
 
   "hplus.config.items.items.mining": "切換釆礦物品",
   "hplus.config.items.items.mining.description": "啟用或禁用所有通過釆礦獲得的物品紋理。",
@@ -297,6 +308,9 @@
 
   "hplus.config.tweaks.golden_fish": "Golden Fish實體模型",
   "hplus.config.tweaks.golden_fish.description": "決定遇到Golden Fish時是否使用自訂模型。",
+
+  "hplus.config.tweaks.fairy_soul": "Fairy Soul模型",
+  "hplus.config.tweaks.fairy_soul.description": "決定是否為Fairy Soul使用自訂模型。",
 
   "hplus.config.tweaks.vanilla_garden_crops": "原版花園作物",
   "hplus.config.tweaks.vanilla_garden_crops.description": "修改向日葵、月光花和野玫瑰的紋理設計，使其更接近原版風格。",
@@ -456,6 +470,9 @@
   "hplus.config.ui.player_list_ping.description": "移除按下 ",
   "hplus.config.ui.player_list_ping.description2": " 后顯示的玩家列表中的延遲指示器。",
 
+  "hplus.config.ui.tooltips": "切換自訂工具提示背景",
+  "hplus.config.ui.tooltips.description": "將SkyBlock的自訂工具提示背景改回原版樣式。",
+
   "hplus.config.kofi.pets.models": "切換寵物模型",
   "hplus.config.kofi.pets.models.description": "啟用或禁用主世界寵物模型。",
 
@@ -487,5 +504,8 @@
   "hplus.config.kofi.environments.dwarven_fog.description": "啟用或禁用矮人礦山和極寒隧道中的霧效。",
 
   "hplus.config.kofi.environments.garden": "切換花園作物",
-  "hplus.config.kofi.environments.garden.description": "改變向日葵在花園中的外觀。此外，還會使向日葵在夜間從視覺上變為月亮花。"
+  "hplus.config.kofi.environments.garden.description": "改變向日葵在花園中的外觀。此外，還會使向日葵在夜間從視覺上變為月亮花。",
+
+  "hplus.config.kofi.environments.torrhus_canyon": "切換Torrhus Canyon環境",
+  "hplus.config.kofi.environments.torrhus_canyon.description": "為Torrhus Canyon的Ruby Veilshrooms和Anthills啟用紋理。"
 }

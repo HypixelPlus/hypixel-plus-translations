@@ -507,5 +507,5 @@
   "hplus.config.kofi.environments.garden.description": "Change how Sunflowers look while in the Garden.\nAlso causes Sunflowers to visually change to Moonflowers at night.",
   
   "hplus.config.kofi.environments.torrhus_canyon": "Toggle Torrhus Canyon Environment",
-  "hplus.config.kofi.environments.torrhus_canyon.description": "Enable textures for Ruby Veilshrooms and Anthills in the Torrhus Canyon"
+  "hplus.config.kofi.environments.torrhus_canyon.description": "Enable textures for Ruby Veilshrooms and Anthills in the Torrhus Canyon."
 }
