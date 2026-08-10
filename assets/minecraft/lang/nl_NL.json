@@ -26,6 +26,7 @@
   "hplus.config.tab.items.other": "Ander",
   "hplus.config.tab.tweaks": "Aanpassingen",
   "hplus.config.tab.tweaks.legacy": "Legacy",
+  "hplus.config.tab.tweaks.custom_models": "Aangepast model",
   "hplus.config.tab.tweaks.armor": "Pantser",
   "hplus.config.tab.tweaks.big_items": "Grote Items",
   "hplus.config.tab.animation": "Animatie",
@@ -60,6 +61,9 @@
   "hplus.config.toggle.vanilla.no_space": "Vanilla",
   "hplus.config.toggle.hplus": "Hypixel+ ",
   "hplus.config.toggle.50_percent": "50% ",
+  "hplus.config.toggle.default": "Standaard ",
+  "hplus.config.toggle.default.no_space": "Standaard",
+  "hplus.config.toggle.colored": "Colored",
   "hplus.config.toggle.auto": "Automatisch ",
   "hplus.config.toggle.left": "Links ",
   "hplus.config.toggle.right": "Rechts ",
@@ -148,6 +152,9 @@
   "hplus.config.items.tools.foraging_tools": "Foerageergereedschap in-/uitschakelen",
   "hplus.config.items.tools.foraging_tools.description": "Foerageergereedschaptexturen in- of uitschakelen.",
 
+  "hplus.config.items.tools.hunting_tools": "Jaaggereedschap in-/uitschakelen",
+  "hplus.config.items.tools.hunting_tools.description": "Jaaggereedschaptexturen in- of uitschakelen.",
+
   "hplus.config.items.tools.mining_tools": "Mijnbouwgereedschap in-/uitschakelen",
   "hplus.config.items.tools.mining_tools.description": "Mijnbouwgereedschaptexturen in- of uitschakelen.",
 
@@ -183,6 +190,9 @@
 
   "hplus.config.items.items.foraging": "Foerageer items in-/uitschakelen",
   "hplus.config.items.items.foraging.description": "Schakel alle texturen in of uit voor items die je van foerageren krijgt.",
+
+  "hplus.config.items.items.hunting": "Jaag items in-/uitschakelen",
+  "hplus.config.items.items.hunting.description": "Schakel alle texturen in of uit voor items die je van jagen krijgt.",
 
   "hplus.config.items.items.mining": "Mijnbouw items in-/uitschakelen",
   "hplus.config.items.items.mining.description": "Schakel alle texturen in of uit voor items die je van mijnbouw krijgt.",
@@ -298,6 +308,9 @@
 
   "hplus.config.tweaks.golden_fish": "Golden Fish entiteit model",
   "hplus.config.tweaks.golden_fish.description": "Bepaald of er een aangepast model wordt gebruikt als je een Golden Fish vindt.",
+
+  "hplus.config.tweaks.fairy_soul": "Fairy Soul model",
+  "hplus.config.tweaks.fairy_soul.description": "Bepaald of er een aangepast model wordt gebruikt voor Fairy Souls.",
 
   "hplus.config.tweaks.vanilla_garden_crops": "Vanilla Garden gewassen",
   "hplus.config.tweaks.vanilla_garden_crops.description": "Verandert het ontwerp van Sunflower, Moonflower en Wild Rose om meer op een lijn te zitten met vanilla.",
@@ -457,6 +470,9 @@
   "hplus.config.ui.player_list_ping.description": "Haalt ping indicatoren weg van de speler lijst als je niet ",
   "hplus.config.ui.player_list_ping.description2": " indrukt.",
 
+  "hplus.config.ui.tooltips": "Aangepaste tooltip achtergronden in-/uitschakelen",
+  "hplus.config.ui.tooltips.description": "Verandert SkyBlock's aangepaste tooltip achtergronden terug naar de vanilla achtergronden.",
+
   "hplus.config.kofi.pets.models": "Pet modellen in-/uitschakelen",
   "hplus.config.kofi.pets.models.description": "Schakel overwereld pet modellen in of uit.",
 
@@ -488,5 +504,8 @@
   "hplus.config.kofi.environments.dwarven_fog.description": "Schakel het mist effect in de Dwarven Mines en Glacite Tunnels in of uit.",
 
   "hplus.config.kofi.environments.garden": "Garden gewassen in-/uitschakelen",
-  "hplus.config.kofi.environments.garden.description": "Verandert hoe zonnebloemen er uit zien in de Garden.\nOok verandert dit hoe zonnebloemen zichtbaar veranderen naar maanbloemen in de nacht."
+  "hplus.config.kofi.environments.garden.description": "Verandert hoe zonnebloemen er uit zien in de Garden.\nOok verandert dit hoe zonnebloemen zichtbaar veranderen naar maanbloemen in de nacht.",
+
+  "hplus.config.kofi.environments.torrhus_canyon": "Torrhus Canyon omgeving in-/uitschakelen",
+  "hplus.config.kofi.environments.torrhus_canyon.description": "Schakel Ruby Veilshrooms en Anthills texturen in de Torrhus Canyon in of uit."
 }
