@@ -26,6 +26,7 @@
   "hplus.config.tab.items.other": "Other",
   "hplus.config.tab.tweaks": "Tweaks",
   "hplus.config.tab.tweaks.legacy": "Legacy",
+  "hplus.config.tab.tweaks.custom_models": "Custom Models",
   "hplus.config.tab.tweaks.armor": "Armor",
   "hplus.config.tab.tweaks.big_items": "Big Items",
   "hplus.config.tab.animation": "Animation",
@@ -60,6 +61,9 @@
   "hplus.config.toggle.vanilla.no_space": "Vanilla",
   "hplus.config.toggle.hplus": "Hypixel+ ",
   "hplus.config.toggle.50_percent": "50% ",
+  "hplus.config.toggle.default": "Default ",
+  "hplus.config.toggle.default.no_space": "Default",
+  "hplus.config.toggle.colored": "Colored",
   "hplus.config.toggle.auto": "Auto ",
   "hplus.config.toggle.left": "Left ",
   "hplus.config.toggle.right": "Right ",
@@ -148,6 +152,9 @@
   "hplus.config.items.tools.foraging_tools": "Toggle Foraging Tools",
   "hplus.config.items.tools.foraging_tools.description": "Enable or disable Foraging Tool textures.",
 
+  "hplus.config.items.tools.hunting_tools": "Toggle Hunting Tools",
+  "hplus.config.items.tools.hunting_tools.description": "Enable or disable Hunting Tool textures.",
+
   "hplus.config.items.tools.mining_tools": "Toggle Mining Tools",
   "hplus.config.items.tools.mining_tools.description": "Enable or disable Mining Tool textures.",
 
@@ -183,6 +190,9 @@
 
   "hplus.config.items.items.foraging": "Toggle Foraging Items",
   "hplus.config.items.items.foraging.description": "Enable or disable textures for all items obtained from Foraging.",
+
+  "hplus.config.items.items.hunting": "Toggle Hunting Items",
+  "hplus.config.items.items.hunting.description": "Enable or disable textures for all items obtained from Hunting.",
 
   "hplus.config.items.items.mining": "Toggle Mining Items",
   "hplus.config.items.items.mining.description": "Enable or disable textures for all items obtained from Mining.",
@@ -298,6 +308,9 @@
 
   "hplus.config.tweaks.golden_fish": "Golden Fish Entity Model",
   "hplus.config.tweaks.golden_fish.description": "Decides whether to use a custom model when encountering a Golden Fish.",
+
+  "hplus.config.tweaks.fairy_soul": "Fairy Soul Model",
+  "hplus.config.tweaks.fairy_soul.description": "Decides whether to use a custom model for Fairy Souls.",
 
   "hplus.config.tweaks.vanilla_garden_crops": "Vanilla Garden Crops",
   "hplus.config.tweaks.vanilla_garden_crops.description": "Changes the design of the Sunflower, Moonflower, and Wild Rose textures to align more with vanilla.",
@@ -457,6 +470,9 @@
   "hplus.config.ui.player_list_ping.description": "Removes the Ping indicators from the player list shown when pressing ",
   "hplus.config.ui.player_list_ping.description2": ".",
 
+  "hplus.config.ui.tooltips": "Toggle Custom Tooltip Backgrounds",
+  "hplus.config.ui.tooltips.description": "Changes SkyBlock's custom tooltip backgrounds back to the vanilla one.",
+
   "hplus.config.kofi.pets.models": "Toggle Pet Models",
   "hplus.config.kofi.pets.models.description": "Enable or disable overworld pet models.",
 
@@ -488,5 +504,8 @@
   "hplus.config.kofi.environments.dwarven_fog.description": "Enable or disable the fog effect in the Dwarven Mines and Glacite Tunnels.",
   
   "hplus.config.kofi.environments.garden": "Toggle Garden Crops",
-  "hplus.config.kofi.environments.garden.description": "Change how Sunflowers look while in the Garden.\nAlso causes Sunflowers to visually change to Moonflowers at night."
+  "hplus.config.kofi.environments.garden.description": "Change how Sunflowers look while in the Garden.\nAlso causes Sunflowers to visually change to Moonflowers at night.",
+  
+  "hplus.config.kofi.environments.torrhus_canyon": "Toggle Torrhus Canyon Environment",
+  "hplus.config.kofi.environments.torrhus_canyon.description": "Enable textures for Ruby Veilshrooms and Anthills in the Torrhus Canyon"
 }
