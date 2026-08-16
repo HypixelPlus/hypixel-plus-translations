@@ -1,5 +1,5 @@
 {
-  "hplus.about.version": "        适用于Minecraft26.1的0.27.0版本//Catharsis",
+  "hplus.about.version": "        适用于Minecraft 26.1的0.27.0版本//Catharsis",
   "hplus.about.credit.title": "作者：",
   "hplus.about.credit": " ic22487",
   "hplus.about.affiliation": "             （与Hypixel无关联）",
@@ -25,6 +25,8 @@
   "hplus.config.tab.items.storage": "储存",
   "hplus.config.tab.items.other": "其他",
   "hplus.config.tab.tweaks": "调整",
+  "hplus.config.tab.tweaks.legacy": "旧版",
+  "hplus.config.tab.tweaks.custom_models": "自定义模型",
   "hplus.config.tab.tweaks.armor": "护甲",
   "hplus.config.tab.tweaks.big_items": "大型物品",
   "hplus.config.tab.animation": "动画",
@@ -59,6 +61,9 @@
   "hplus.config.toggle.vanilla.no_space": "原版",
   "hplus.config.toggle.hplus": "Hypixel+ ",
   "hplus.config.toggle.50_percent": "50% ",
+  "hplus.config.toggle.default": "默认",
+  "hplus.config.toggle.default.no_space": "默认",
+  "hplus.config.toggle.colored": "彩色",
   "hplus.config.toggle.auto": "自动 ",
   "hplus.config.toggle.left": "左侧 ",
   "hplus.config.toggle.right": "右侧 ",
@@ -147,6 +152,9 @@
   "hplus.config.items.tools.foraging_tools": "切换伐木工具",
   "hplus.config.items.tools.foraging_tools.description": "启用或禁用伐木工具纹理。",
 
+  "hplus.config.items.tools.hunting_tools": "切换狩猎工具",
+  "hplus.config.items.tools.hunting_tools.description": "启用或禁用狩猎工具纹理。",
+
   "hplus.config.items.tools.mining_tools": "切换采矿工具",
   "hplus.config.items.tools.mining_tools.description": "启用或禁用采矿工具纹理。",
 
@@ -182,6 +190,9 @@
 
   "hplus.config.items.items.foraging": "切换伐木物品",
   "hplus.config.items.items.foraging.description": "启用或禁用所有通过伐木获得的物品纹理。",
+
+  "hplus.config.items.items.hunting": "切换狩猎物品",
+  "hplus.config.items.items.hunting.description": "启用或禁用所有通过狩猎获得的物品纹理。",
 
   "hplus.config.items.items.mining": "切换采矿物品",
   "hplus.config.items.items.mining.description": "启用或禁用所有通过采矿获得的物品纹理。",
@@ -297,6 +308,9 @@
 
   "hplus.config.tweaks.golden_fish": "Golden Fish实体模型",
   "hplus.config.tweaks.golden_fish.description": "决定遇到Golden Fish时是否使用自定义模型。",
+
+  "hplus.config.tweaks.fairy_soul": "Fairy Soul模型",
+  "hplus.config.tweaks.fairy_soul.description": "决定是否为Fairy Soul使用自定义模型。",
 
   "hplus.config.tweaks.vanilla_garden_crops": "原版花园作物",
   "hplus.config.tweaks.vanilla_garden_crops.description": "修改向日葵、月光花和野玫瑰的纹理设计，使其更接近原版风格。",
@@ -456,6 +470,9 @@
   "hplus.config.ui.player_list_ping.description": "移除按下 ",
   "hplus.config.ui.player_list_ping.description2": " 后显示的玩家列表中的延迟指示器。",
 
+  "hplus.config.ui.tooltips": "切换自定义工具提示背景",
+  "hplus.config.ui.tooltips.description": "将SkyBlock的自定义工具提示背景改回原版样式。",
+
   "hplus.config.kofi.pets.models": "切换宠物模型",
   "hplus.config.kofi.pets.models.description": "启用或禁用主世界宠物模型。",
 
@@ -487,5 +504,8 @@
   "hplus.config.kofi.environments.dwarven_fog.description": "启用或禁用矮人矿山和极寒隧道中的雾效。",
 
   "hplus.config.kofi.environments.garden": "切换花园作物",
-  "hplus.config.kofi.environments.garden.description": "改变向日葵在花园中的外观。此外，还会使向日葵在夜间从视觉上变为月亮花。"
+  "hplus.config.kofi.environments.garden.description": "改变向日葵在花园中的外观。此外，还会使向日葵在夜间从视觉上变为月亮花。",
+ 
+  "hplus.config.kofi.environments.torrhus_canyon": "切换Torrhus Canyon环境",
+  "hplus.config.kofi.environments.torrhus_canyon.description": "为Torrhus Canyon的Ruby Veilshrooms和Anthills启用纹理。"
 }

@@ -1,0 +1,511 @@
+{
+  "hplus.about.version": "        Minecraft 26.1対応の0.27.0版//Catharsis",
+  "hplus.about.credit.title": "作者：",
+  "hplus.about.credit": " ic22487",
+  "hplus.about.affiliation": "             （Hypixelとは無関係です）",
+  "hplus.about.discord": "Hypixel+ Discordに参加！",
+  "hplus.about.modrinth": "Modrinthでチェック！",
+  "hplus.about.kofi": "Ko-Fiで支援者になる！",
+  "hplus.about.other_stuff": "その他の作品を見る：",
+  "hplus.about.other_stuff.items_spreadsheet": "SkyBlockアイテム一覧",
+  "hplus.about.other_stuff.alpha_spreadsheet": "Alphaアイテム一覧",
+  "hplus.about.other_stuff.scathabominations": "Scathabominations",
+  "hplus.about.translator": "🌐翻訳情報",
+  "hplus.about.translator.hover": "日本語翻訳：Internet_Yamero\n§7このリソースパックを他の言語に翻訳するのを手伝いませんか？オーバーライドリソースパックを作成するだけでOKです！ここをクリックしてGitHubプロジェクトを見る！",
+  "hplus.about.row.padding": "                     ",
+  "hplus.about.licensed": "ライセンス",
+
+  "hplus.config.warning.leave_this_lang_field_blank": "",
+  "hplus.config.tab.items": "アイテム",
+  "hplus.config.tab.items.items": "アイテム",
+  "hplus.config.tab.items.weapons": "武器",
+  "hplus.config.tab.items.tools": "ツール",
+  "hplus.config.tab.items.events": "イベント",
+  "hplus.config.tab.items.cosmetics": "コスメティック",
+  "hplus.config.tab.items.storage": "ストレージ",
+  "hplus.config.tab.items.other": "その他",
+  "hplus.config.tab.tweaks": "調整",
+  "hplus.config.tab.tweaks.legacy": "旧仕様",
+  "hplus.config.tab.tweaks.custom_models": "カスタムモデル",
+  "hplus.config.tab.tweaks.armor": "防具",
+  "hplus.config.tab.tweaks.big_items": "大型アイテム",
+  "hplus.config.tab.animation": "アニメーション",
+  "hplus.config.tab.animation.weapons": "武器",
+  "hplus.config.tab.animation.tools": "ツール",
+  "hplus.config.tab.animation.items": "アイテム",
+  "hplus.config.tab.animation.easter_eggs": "イースターエッグ",
+  "hplus.config.tab.ui": "UI",
+  "hplus.config.tab.ui.more_coming_soon": "さらなる切り替え項目が近日登場™",
+  "hplus.config.tab.kofi": "Ko-Fi",
+  "hplus.config.tab.kofi.header": "このタブはKo-Fi版にのみ影響します。",
+  "hplus.config.tab.kofi.header2": "アップデートや新機能を先行体験したい場合は、",
+  "hplus.config.tab.kofi.header_button": "ここをクリックして参加！",
+  "hplus.config.tab.kofi.pets": "ペット",
+  "hplus.config.tab.kofi.pets.disclaimer": "ペットモデルはすべてのモデルが完成した後に公開されます。",
+  "hplus.config.tab.kofi.environments": "環境",
+  "hplus.config.tab.kofi.environments.disclaimer": "環境は完成後に公開されます。",
+  "hplus.config.tab.about": "H+について",
+
+  "hplus.config.toggle.on": "オン ",
+  "hplus.config.toggle.on.no_space": "オン",
+  "hplus.config.toggle.on.negative": "",
+  "hplus.config.toggle.on.balance": "",
+  "hplus.config.toggle.off": "オフ ",
+  "hplus.config.toggle.off.no_space": "オフ",
+  "hplus.config.toggle.off.negative": "",
+  "hplus.config.toggle.off.balance": "",
+  "hplus.config.toggle.off_warn": "⚠ オフ ",
+  "hplus.config.toggle.off_warn.no_space": "⚠ オフ",
+  "hplus.config.toggle.half_and_half": "半々 ",
+  "hplus.config.toggle.vanilla": "バニラ ",
+  "hplus.config.toggle.vanilla.no_space": "バニラ",
+  "hplus.config.toggle.hplus": "Hypixel+ ",
+  "hplus.config.toggle.50_percent": "50% ",
+  "hplus.config.toggle.default": "デフォルト",
+  "hplus.config.toggle.default.no_space": "デフォルト",
+  "hplus.config.toggle.colored": "カラー",
+  "hplus.config.toggle.auto": "自動 ",
+  "hplus.config.toggle.left": "左側 ",
+  "hplus.config.toggle.right": "右側 ",
+  "hplus.config.toggle.16x": "16x ",
+  "hplus.config.toggle.32x": "32x ",
+  "hplus.config.toggle.big.both_big": "両方大型 ",
+  "hplus.config.toggle.big.both_small": "両方小型 ",
+  "hplus.config.toggle.aote_aotv.etherwarp": "Etherwarp ",
+  "hplus.config.toggle.aote_aotv.all_spoons": "すべてのシャベル ",
+  "hplus.config.toggle.aote_aotv.all_swords": "すべての剣 ",
+  "hplus.config.toggle.dungeonbreaker.blunt": "鈍端",
+  "hplus.config.toggle.dungeonbreaker.sharp": "鋭端",
+  "hplus.config.toggle.pets.arachnophobia.default": "デフォルトモデル",
+  "hplus.config.toggle.pets.arachnophobia.no_spiders": "クモなし",
+  "hplus.config.toggle.pets.arachnophobia.no_tarantulas": "Tarantulasなし",
+  "hplus.config.toggle.pets.arachnophobia.disable_all": "すべて無効",
+  "hplus.config.toggle.pets.arachnophobia.funny_mode": "おもしろモード",
+  "hplus.config.toggle.pets.arachnophobia.funny_mode.description": "さらに恐ろしくなります。怖がりな人にはおすすめしません。",
+
+  "hplus.config.items.accessories": "アクセサリーの切り替え",
+  "hplus.config.items.accessories.description": "アクセサリーのテクスチャを有効または無効にします。",
+
+  "hplus.config.items.armor": "防具の切り替え",
+  "hplus.config.items.armor.description": "防具のテクスチャを有効または無効にします。",
+
+  "hplus.config.items.equipment": "装備の切り替え",
+  "hplus.config.items.equipment.description": "装備のテクスチャを有効または無効にします。",
+
+  "hplus.config.items.weapons": "すべての武器の切り替え",
+  "hplus.config.items.weapons.description": "§cすべての§7武器テクスチャを有効または無効にします。",
+
+  "hplus.config.items.weapons.bows": "弓の切り替え",
+  "hplus.config.items.weapons.bows.description": "弓のテクスチャを有効または無効にします。",
+
+  "hplus.config.items.weapons.longswords": "ロングソードの切り替え",
+  "hplus.config.items.weapons.longswords.description": "ロングソードのテクスチャを有効または無効にします。",
+
+  "hplus.config.items.weapons.scythes": "大鎌の切り替え",
+  "hplus.config.items.weapons.scythes.description": "大鎌のテクスチャを有効または無効にします。",
+
+  "hplus.config.items.weapons.staves": "杖の切り替え",
+  "hplus.config.items.weapons.staves.description": "杖のテクスチャを有効または無効にします。",
+
+  "hplus.config.items.weapons.swords": "剣の切り替え",
+  "hplus.config.items.weapons.swords.description": "剣のテクスチャを有効または無効にします。",
+
+  "hplus.config.items.weapons.wands": "ワンドの切り替え",
+  "hplus.config.items.weapons.wands.description": "ワンドのテクスチャを有効または無効にします。",
+
+  "hplus.config.items.weapons.whips": "ムチの切り替え",
+  "hplus.config.items.weapons.whips.description": "ムチのテクスチャを有効または無効にします。",
+
+  "hplus.config.items.tools": "すべてのツールの切り替え",
+  "hplus.config.items.tools.description": "§cすべての§7ツールテクスチャを有効または無効にします。",
+
+  "hplus.config.items.tools.abiphones": "Abiphoneの切り替え",
+  "hplus.config.items.tools.abiphones.description": "Abiphoneのテクスチャを有効または無効にします。",
+
+  "hplus.config.items.tools.arrows": "矢の切り替え",
+  "hplus.config.items.tools.arrows.description": "矢のテクスチャを有効または無効にします。",
+
+  "hplus.config.items.tools.biome_sticks": "バイオームスティックの切り替え",
+  "hplus.config.items.tools.biome_sticks.description": "バイオームスティックのテクスチャを有効または無効にします。",
+
+  "hplus.config.items.tools.combat_tools": "戦闘ツールの切り替え",
+  "hplus.config.items.tools.combat_tools.description": "戦闘ツールのテクスチャを有効または無効にします。",
+
+  "hplus.config.items.tools.drills": "ドリルの切り替え",
+  "hplus.config.items.tools.drills.description": "ドリルのテクスチャを有効または無効にします。",
+
+  "hplus.config.items.tools.farming_tools": "農業ツールの切り替え",
+  "hplus.config.items.tools.farming_tools.description": "農業ツールのテクスチャを有効または無効にします。",
+
+  "hplus.config.items.tools.garden_hoes": "ガーデン用クワの切り替え",
+  "hplus.config.items.tools.garden_hoes.description": "ガーデン用クワのテクスチャを有効または無効にします。",
+
+  "hplus.config.items.tools.fishing_tools": "釣りツールの切り替え",
+  "hplus.config.items.tools.fishing_tools.description": "釣りツールのテクスチャを有効または無効にします。",
+
+  "hplus.config.items.tools.fishing_rods": "釣り竿の切り替え",
+  "hplus.config.items.tools.fishing_rods.description": "釣り竿のテクスチャを有効または無効にします。",
+
+  "hplus.config.items.tools.rod_parts": "釣り竿パーツの切り替え",
+  "hplus.config.items.tools.rod_parts.description": "釣り竿パーツのテクスチャを有効または無効にします。",
+
+  "hplus.config.items.tools.foraging_tools": "伐採ツールの切り替え",
+  "hplus.config.items.tools.foraging_tools.description": "伐採ツールのテクスチャを有効または無効にします。",
+
+  "hplus.config.items.tools.hunting_tools": "狩猟ツールの切り替え",
+  "hplus.config.items.tools.hunting_tools.description": "狩猟ツールのテクスチャを有効または無効にします。",
+
+  "hplus.config.items.tools.mining_tools": "採掘ツールの切り替え",
+  "hplus.config.items.tools.mining_tools.description": "採掘ツールのテクスチャを有効または無効にします。",
+
+  "hplus.config.items.items": "すべてのアイテムの切り替え",
+  "hplus.config.items.items.description": "§cすべての§7アイテムテクスチャを有効または無効にします。",
+
+  "hplus.config.items.items.crimson_isle": "Crimson Isleアイテムの切り替え",
+  "hplus.config.items.items.crimson_isle.description": "Crimson Isleで入手できるすべてのアイテムのテクスチャを有効または無効にします。",
+
+  "hplus.config.items.items.dungeons": "ダンジョンアイテムの切り替え",
+  "hplus.config.items.items.dungeons.description": "ダンジョンで入手できるすべてのアイテムのテクスチャを有効または無効にします。",
+
+  "hplus.config.items.items.end": "The Endアイテムの切り替え",
+  "hplus.config.items.items.end.description": "ジ・エンドで入手できるすべてのアイテムのテクスチャを有効または無効にします。",
+
+  "hplus.config.items.items.farming": "農業アイテムの切り替え",
+  "hplus.config.items.items.farming.description": "農業で入手できるすべてのアイテムのテクスチャを有効または無効にします。",
+
+  "hplus.config.items.items.farming_mutations": "農業変異植物の切り替え",
+  "hplus.config.items.items.farming_mutations.description": "温室の変異植物のテクスチャを有効または無効にします。",
+
+  "hplus.config.items.items.fishing": "釣りアイテムの切り替え",
+  "hplus.config.items.items.fishing.description": "釣りで入手できるすべてのアイテムのテクスチャを有効または無効にします。",
+
+  "hplus.config.items.items.fishing_bait": "釣り餌の切り替え",
+  "hplus.config.items.items.fishing_bait.description": "釣り餌のテクスチャを有効または無効にします。",
+
+  "hplus.config.items.items.trophy_fish": "トロフィーフィッシュの切り替え",
+  "hplus.config.items.items.trophy_fish.description": "Crimson Isleのトロフィーフィッシュのテクスチャを有効または無効にします。",
+
+  "hplus.config.items.items.trophy_frogs": "トロフィーカエルの切り替え",
+  "hplus.config.items.items.trophy_frogs.description": "Lotus Atollのトロフィーカエルのテクスチャを有効または無効にします。",
+
+  "hplus.config.items.items.foraging": "伐採アイテムの切り替え",
+  "hplus.config.items.items.foraging.description": "伐採で入手できるすべてのアイテムのテクスチャを有効または無効にします。",
+
+  "hplus.config.items.items.hunting": "狩猟アイテムの切り替え",
+  "hplus.config.items.items.hunting.description": "狩猟で入手できるすべてのアイテムのテクスチャを有効または無効にします。",
+
+  "hplus.config.items.items.mining": "採掘アイテムの切り替え",
+  "hplus.config.items.items.mining.description": "採掘で入手できるすべてのアイテムのテクスチャを有効または無効にします。",
+
+  "hplus.config.items.items.gemstones": "ジェムストーンの切り替え",
+  "hplus.config.items.items.gemstones.description": "ジェムストーンのテクスチャを有効または無効にします。",
+
+  "hplus.config.items.items.modifiers": "モディファイアの切り替え",
+  "hplus.config.items.items.modifiers.description": "モディファイアアイテムのテクスチャを有効または無効にします。",
+
+  "hplus.config.items.items.pet_items": "ペットアイテムの切り替え",
+  "hplus.config.items.items.pet_items.description": "ペットアイテムのテクスチャを有効または無効にします。",
+
+  "hplus.config.items.items.potions": "ポーションの切り替え",
+  "hplus.config.items.items.potions.description": "ポーションのテクスチャを有効または無効にします。",
+
+  "hplus.config.items.items.power_stones": "Power Stonesの切り替え",
+  "hplus.config.items.items.power_stones.description": "Power Stonesのテクスチャを有効または無効にします。",
+
+  "hplus.config.items.items.reforge_stones": "Reforge Stoneを切り替え",
+  "hplus.config.items.items.reforge_stones.description": "Reforge Stoneのテクスチャを有効または無効にします。",
+
+  "hplus.config.items.items.rift": "The Riftのアイテムを切り替え",
+  "hplus.config.items.items.rift.description": "The Riftで入手できるすべてのアイテムのテクスチャを有効または無効にします。",
+
+  "hplus.config.items.items.slayer": "Slayerアイテムを切り替え",
+  "hplus.config.items.items.slayer.description": "Slayerで入手できるすべてのアイテムのテクスチャを有効または無効にします。",
+
+  "hplus.config.items.items.special": "特殊アイテムを切り替え",
+  "hplus.config.items.items.special.description": "大半のSpecialレアリティアイテムのテクスチャを有効または無効にします。",
+
+  "hplus.config.items.items.the_fish": "The Fishを切り替え",
+  "hplus.config.items.items.the_fish.description": "The Fishのテクスチャを有効または無効にします。",
+
+  "hplus.config.items.items.travel_scrolls": "Travel Scrollsを切り替え",
+  "hplus.config.items.items.travel_scrolls.description": "Travel Scrollのテクスチャを有効または無効にします。",
+
+  "hplus.config.items.items.misc": "その他のアイテムを切り替え",
+  "hplus.config.items.items.misc.description": "他の切り替え項目に該当しないアイテムのテクスチャを有効または無効にします。",
+
+  "hplus.config.items.events.century": "Century Raffleアイテムを切り替え",
+  "hplus.config.items.events.century.description": "Raffle of the Centuryで入手できるすべてのアイテムのテクスチャを有効または無効にします。",
+
+  "hplus.config.items.events.chuckleton": "Chuckletonアイテムを切り替え",
+  "hplus.config.items.events.chuckleton.description": "Honk and Seekで入手できるすべてのアイテムのテクスチャを有効または無効にします。",
+
+  "hplus.config.items.events.great_spook": "Great Spookアイテムを切り替え",
+  "hplus.config.items.events.great_spook.description": "The Great Spookで入手できるすべてのアイテムのテクスチャを有効または無効にします。",
+
+  "hplus.config.items.events.harvest_feast": "Harvest Feastアイテムを切り替え",
+  "hplus.config.items.events.harvest_feast.description": "HarvestおよびGrand Feastsで入手できるすべてのアイテムのテクスチャを有効または無効にします。",
+
+  "hplus.config.items.events.hoppity": "Hoppityアイテムを切り替え",
+  "hplus.config.items.events.hoppity.description": "Hoppity's Huntで入手できるすべてのアイテムのテクスチャを有効または無効にします。",
+
+  "hplus.config.items.events.jerrys_workshop": "Jerry's Workshopアイテムを切り替え",
+  "hplus.config.items.events.jerrys_workshop.description": "Season of Jerryで入手できるすべてのアイテムのテクスチャを有効または無効にします。",
+
+  "hplus.config.items.events.mythological": "Mythologicalアイテムを切り替え",
+  "hplus.config.items.events.mythological.description": "Mythological Ritualで入手できるすべてのアイテムのテクスチャを有効または無効にします。",
+
+  "hplus.config.items.events.spooky_festival": "Spooky Festivalアイテムを切り替え",
+  "hplus.config.items.events.spooky_festival.description": "Spooky Festivalで入手できるすべてのアイテムのテクスチャを有効または無効にします。",
+
+  "hplus.config.items.events.zodiac": "Zodiacアイテムを切り替え",
+  "hplus.config.items.events.zodiac.description": "「Year of」イベントで入手できるすべてのアイテムのテクスチャを有効または無効にします。",
+
+  "hplus.config.items.cosmetics.backpack_skins": "バックパックスキンを切り替え",
+  "hplus.config.items.cosmetics.backpack_skins.description": "バックパックスキンのテクスチャを有効または無効にします。",
+
+  "hplus.config.items.cosmetics.dyes": "染料を切り替え",
+  "hplus.config.items.cosmetics.dyes.description": "染料のテクスチャを有効または無効にします。",
+
+  "hplus.config.items.cosmetics.runes": "ルーンを切り替え",
+  "hplus.config.items.cosmetics.runes.description": "基本ルーンのテクスチャを有効または無効にします。",
+
+  "hplus.config.items.cosmetics.unique_runes": "Unique Runeを切り替え",
+  "hplus.config.items.cosmetics.unique_runes.description": "Fire Sale Runeのテクスチャを有効または無効にします。",
+
+  "hplus.config.items.storage.backpacks": "バックパックを切り替え",
+  "hplus.config.items.storage.backpacks.description": "バックパックのテクスチャを有効または無効にします。",
+
+  "hplus.config.items.storage.sacks": "Sackを切り替え",
+  "hplus.config.items.storage.sacks.description": "Sackのテクスチャを有効または無効にします。",
+
+  "hplus.config.items.other.currency": "通貨を切り替え",
+  "hplus.config.items.other.currency.description": "ドロップした通貨のテクスチャを有効または無効にします。（Coins、Essenceなど）",
+
+  "hplus.config.items.other.glitched_items": "Glitched Itemを切り替え",
+  "hplus.config.items.other.glitched_items.description": "SkyBlock Glitched Itemのテクスチャを有効または無効にします。",
+
+  "hplus.config.items.other.bedwars": "Bedwarsアイテムを切り替え",
+  "hplus.config.items.other.bedwars.description": "BedwarsおよびBedwars Dreamsのアイテムテクスチャを有効または無効にします。（§cBroken§7）",
+
+  "hplus.config.items.other.murder_mystery": "Murder Mystery武器を切り替え",
+  "hplus.config.items.other.murder_mystery.description": "Murder Mysteryの武器テクスチャを有効または無効にします。（§cBroken§7）",
+
+
+  "hplus.config.tweaks.aote_aotv": "Aspect of the End/Voidの調整",
+  "hplus.config.tweaks.aote_aotv.description": "Aspect of the End/Voidに使用するテクスチャを決定します。",
+
+  "hplus.config.tweaks.legacy_axes": "旧版の斧",
+  "hplus.config.tweaks.legacy_axes.description": "Galateaのリリース時に変更された武器を、斧の見た目に戻します。",
+
+  "hplus.config.tweaks.legacy_treecapitator": "旧版Treecapitator",
+  "hplus.config.tweaks.legacy_treecapitator.description": "Treecapitatorを、Galateaのリリース前に使用されていた黒曜石ベースのテクスチャに戻します。",
+
+  "hplus.config.tweaks.legacy_giants_sword": "旧版Giant's Sword",
+  "hplus.config.tweaks.legacy_giants_sword.description": "Giant's Swordを旧版のモデルとテクスチャ（巨大なバニラの鉄の剣）に戻します。",
+
+  "hplus.config.tweaks.totem_of_corruption": "Totem of Corruptionの設置モデル",
+  "hplus.config.tweaks.totem_of_corruption.description": "設置したTotem of Corruptionにカスタムモデルを使用するかどうかを決定します。",
+
+  "hplus.config.tweaks.golden_fish": "Golden Fishのエンティティモデル",
+  "hplus.config.tweaks.golden_fish.description": "Golden Fishに遭遇した際にカスタムモデルを使用するかどうかを決定します。",
+
+  "hplus.config.tweaks.fairy_soul": "Fairy Soulモデル",
+  "hplus.config.tweaks.fairy_soul.description": "Fairy Soulにカスタムモデルを使用するかどうかを決定します。",
+
+  "hplus.config.tweaks.vanilla_garden_crops": "バニラ風のGarden作物",
+  "hplus.config.tweaks.vanilla_garden_crops.description": "Sunflower、Moonflower、Wild Roseのテクスチャデザインを変更し、バニラに近い見た目にします。",
+
+  "hplus.config.tweaks.left_handed_gloves": "左手用Gloves & Gauntlets",
+  "hplus.config.tweaks.left_handed_gloves.description": "GlovesとGauntletsに左手用または右手用のモデルを表示するかどうかを決定します。",
+
+  "hplus.config.tweaks.dungeonbreaker": "Dungeonbreakerの反転",
+  "hplus.config.tweaks.dungeonbreaker.description": "Dungeonbreakerのどちら側を使ってダンジョンを破壊するかを決定します。",
+
+  "hplus.config.tweaks.armor.models": "防具モデルを切り替え",
+  "hplus.config.tweaks.armor.models.description": "プレイヤーモデルに表示される防具テクスチャを有効または無効にします。",
+
+  "hplus.config.tweaks.armor.icons": "防具アイコンを切り替え",
+  "hplus.config.tweaks.armor.icons.description": "防具インベントリアイコンのテクスチャを有効または無効にします。",
+
+  "hplus.config.tweaks.armor.masks": "防具マスクを切り替え",
+  "hplus.config.tweaks.armor.masks.description": "マスク防具アイコンのテクスチャを有効または無効にします。",
+
+  "hplus.config.tweaks.armor.blocks": "防具ブロックヘルメットを切り替え",
+  "hplus.config.tweaks.armor.blocks.description": "ブロックヘルメット防具のテクスチャを有効または無効にします。",
+
+  "hplus.config.tweaks.armor.player_heads": "防具プレイヤーヘッドを切り替え",
+  "hplus.config.tweaks.armor.player_heads.description": "プレイヤーヘッド防具のリテクスチャを有効または無効にします。§8（現在はWither Armorのみ）",
+
+  "hplus.config.tweaks.armor.dye": "防具の染色を切り替え",
+  "hplus.config.tweaks.armor.dye.description": "防具を染色可能にするかどうかを決定します。",
+
+  "hplus.config.tweaks.big.staves": "大型の杖",
+  "hplus.config.tweaks.big.staves.description": "杖を手に持っているときとUI上でのサイズを決定します。",
+
+  "hplus.config.tweaks.big.scythes": "大型の鎌",
+  "hplus.config.tweaks.big.scythes.description": "鎌を手に持っているときとUI上でのサイズを決定します。",
+
+  "hplus.config.tweaks.big.longswords": "大型の長剣",
+  "hplus.config.tweaks.big.longswords.description": "長剣と刀を手に持っているときとUI上でのサイズを決定します。",
+
+  "hplus.config.tweaks.big.fishing_rods": "大型の釣り竿",
+  "hplus.config.tweaks.big.fishing_rods.description": "巨大な釣り竿を手に持っているときとUI上でのサイズを決定します。",
+
+  "hplus.config.tweaks.big.misc": "大型のその他アイテム",
+  "hplus.config.tweaks.big.misc.description": "その他の（ほとんど使用されていない）巨大アイテムを手に持っているときとUI上でのサイズを決定します。",
+
+  "hplus.config.animation": "すべてのアニメーションを切り替え",
+  "hplus.config.animation.description": "§cすべて§7のアイテムアニメーションを有効または無効にします。",
+
+  "hplus.config.animation.textures": "すべてのテクスチャアニメーションを切り替え",
+  "hplus.config.animation.textures.description": "§cすべて§7のアニメーションテクスチャを有効または無効にします。",
+
+  "hplus.config.animation.weapons.shortbow": "ショートボウの修正",
+  "hplus.config.animation.weapons.shortbow.description": "左クリック時にショートボウが矢を発射するアニメーションを表示するかどうかを変更します。",
+
+  "hplus.config.animation.weapons.aotj": "Aspect of the Jerryの眉上げ",
+  "hplus.config.animation.weapons.aotj.description": "右クリック時にAspect of the Jerryが眉を動かすかどうかを変更します。",
+
+  "hplus.config.animation.weapons.aote_aotv": "Aspect of the End/Voidのテレポートフラッシュ",
+  "hplus.config.animation.weapons.aote_aotv.description": "テレポート時にAspect of the End/Voidが光るかどうかを変更します。",
+
+  "hplus.config.animation.weapons.aote_aotv_etherwarp": "Aspect of the End/VoidのEtherwarp開放",
+  "hplus.config.animation.weapons.aote_aotv_etherwarp.description": "Etherwarp使用時にAspect of the End/Voidが開くかどうかを変更します。",
+
+  "hplus.config.animation.weapons.necron_blade": "Necron Bladeのスクロールフラッシュ",
+  "hplus.config.animation.weapons.necron_blade.description": "Necron Bladeとその上位版がスクロールアビリティ使用時に光るかどうかを変更します。",
+
+  "hplus.config.animation.weapons.zombie_sword": "Zombie Swordの回復フラッシュ",
+  "hplus.config.animation.weapons.zombie_sword.description": "回復時にZombie Swordが光るかどうかを変更します。",
+
+  "hplus.config.animation.weapons.hollow_wand": "Hollow Wandのグリフ",
+  "hplus.config.animation.weapons.hollow_wand.description": "Hollow Wandが入力されたグリフを視覚的に表示するかどうかを変更します。",
+
+  "hplus.config.animation.weapons.celeste_starlight_wand": "Celeste/Starlight Wandのフラッシュ",
+  "hplus.config.animation.weapons.celeste_starlight_wand.description": "Celeste WandとStarlight Wandが詠唱時に光るかどうかを変更します。",
+
+  "hplus.config.animation.weapons.ink_wand": "Ink Wandの収縮",
+  "hplus.config.animation.weapons.ink_wand.description": "Ink Bombを使う際にアイテムが収縮するかどうかを変更します。",
+
+  "hplus.config.animation.weapons.pigman_sword": "Pigman Swordの炎",
+  "hplus.config.animation.weapons.pigman_sword.description": "Burning Soulsを使う際にアイテムPigman Swordの炎を表示するかどうかを変更します。",
+
+  "hplus.config.animation.weapons.sinseeker_scythe": "Sinseeker ScytheのSinrecallフラッシュ",
+  "hplus.config.animation.weapons.sinseeker_scythe.description": "Sinrecallを使う際にアイテムが光るかどうかを変更します。",
+
+  "hplus.config.animation.weapons.voodoo_doll": "Voodoo Dollの刺突",
+  "hplus.config.animation.weapons.voodoo_doll.description": "Acupunctureを使う際にアイテムが刺されるアニメーションを表示するかどうかを変更します。",
+
+  "hplus.config.animation.tools.drill": "ドリルの回転アニメーション",
+  "hplus.config.animation.tools.drill.description": "採掘時にドリルが回転するかどうかを変更します。",
+
+  "hplus.config.animation.tools.vacuum": "Vacuum Vortexの渦アニメーション",
+  "hplus.config.animation.tools.vacuum.description": "Vacuum Vortexの使用時に内部に瓦礫が表示されるかどうかを変更します。",
+
+  "hplus.config.animation.tools.hydrocan": "HydroCan™の散水アニメーション",
+  "hplus.config.animation.tools.hydrocan.description": "HydroCan™が水を注ぎ、水で満たされる様子を表示するかどうかを変更します。",
+
+  "hplus.config.animation.tools.plant_diagnostics_tool": "Plant Diagnostics Toolのアニメーション",
+  "hplus.config.animation.tools.plant_diagnostics_tool.description": "使用時にPlant Diagnostics Toolのメーターが動くかどうかを変更します。",
+
+  "hplus.config.animation.tools.abiphone": "Abiphoneの表示アニメーション",
+  "hplus.config.animation.tools.abiphone.description": "手に持ったとき、またはカーソルを合わせたときにAbiphoneが起動するかどうかを変更します。",
+
+  "hplus.config.animation.tools.wand_of_healing": "Wand of Healingのフラッシュ",
+  "hplus.config.animation.tools.wand_of_healing.description": "Wand of Healing、Mending、Restoration、Atonement、Strengthの使用時に光るかどうかを変更します。",
+
+  "hplus.config.animation.tools.aotl": "Aspect of the LeechのTransmission",
+  "hplus.config.animation.tools.aotl.description": "Weird Transmissionを使う際にアイテムAspect of the Leechが開くかどうかを変更します。",
+
+  "hplus.config.animation.tools.royal_pigeon": "Royal Pigeonの鳴き声",
+  "hplus.config.animation.tools.royal_pigeon.description": "使用時にRoyal Pigeonが鳴くアニメーションを表示するかどうかを変更します。",
+
+  "hplus.config.animation.tools.egglocator": "Egglocatorの点滅",
+  "hplus.config.animation.tools.egglocator.description": "使用時にEgglocatorが点滅するかどうかを変更します。",
+
+  "hplus.config.animation.tools.soul_esoward": "Soul Esowardの点滅",
+  "hplus.config.animation.tools.soul_esoward.description": "使用時にSoul Esowardが点滅するかどうかを変更します。",
+
+  "hplus.config.animation.tools.etherwarp_conduit": "Etherwarp Conduitの開放",
+  "hplus.config.animation.tools.etherwarp_conduit.description": "スニーク時にEtherwarp Conduitが開くかどうかを変更します。",
+
+  "hplus.config.animation.tools.detective_scanner": "Detective Scannerの嗅ぎ動作",
+  "hplus.config.animation.tools.detective_scanner.description": "使用時にDetective Scannerが嗅ぐアニメーションを表示するかどうかを変更します。",
+
+  "hplus.config.animation.tools.healing_melon": "Healing Melonの食べるアニメーション",
+  "hplus.config.animation.tools.healing_melon.description": "使用時にHealing Melonが食べられるアニメーションを表示するかどうかを変更します。",
+
+  "hplus.config.animation.tools.holy_ice": "Holy Iceのフラッシュ",
+  "hplus.config.animation.tools.holy_ice.description": "使用時にHoly Iceが光るかどうかを変更します。",
+
+  "hplus.config.animation.items.spraying": "散布アニメーション",
+  "hplus.config.animation.items.spraying.description": "使用時にSprayonator、Pest Repellent、Spray Canが散布するアニメーションを表示するかどうかを変更します。",
+
+  "hplus.config.animation.items.ubiks_cube": "Ubik's Cubeの回転",
+  "hplus.config.animation.items.ubiks_cube.description": "使用時にUbik's Cubeが回転するかどうかを変更します。",
+
+  "hplus.config.animation.items.revive_stone": "Revive Stoneの破壊",
+  "hplus.config.animation.items.revive_stone.description": "使用時にRevive Stoneが壊れるアニメーションを表示するかどうかを変更します。",
+
+  "hplus.config.animation.items.haunt": "Haunt Buttonの恥ずかしがり",
+  "hplus.config.animation.items.haunt.description": "ダンジョンで使用時にHaunt Buttonが隠れるかどうかを変更します。",
+
+  "hplus.config.animation.items.box_open": "Raffle Loot Boxの開封アニメーション",
+  "hplus.config.animation.items.box_open.description": "Raffle Loot Boxの使用時に開封アニメーションを再生するかどうかを変更します。",
+
+  "hplus.config.animation.easter_eggs.held_item_idle": "手持ちアイテムの待機アニメーション",
+  "hplus.config.animation.easter_eggs.held_item_idle.description": "手に持っているときのみ表示されるさまざまなイースターエッグアニメーションを切り替えます。",
+
+  "hplus.config.animation.easter_eggs.right_click_inspect": "右クリック検査アニメーション",
+  "hplus.config.animation.easter_eggs.right_click_inspect.description": "右クリックを押し続けているときのみ表示されるさまざまなイースターエッグアニメーションを切り替えます。",
+
+  "hplus.config.ui": "すべてのUIアイコンを切り替え",
+  "hplus.config.ui.description": "§cすべて§7のUIアイコンを有効または無効にします。",
+
+  "hplus.config.ui.fire_overlay": "炎のオーバーレイを切り替え",
+  "hplus.config.ui.fire_overlay.description": "一人称視点の炎のオーバーレイの透明度を変更します。",
+  "hplus.config.ui.fire_overlay.description2": "一部のシェーダーやNVIDIA製グラフィックカードと正常に動作しない場合があります。",
+
+  "hplus.config.ui.player_list_ping": "プレイヤーリストのPing表示を切り替え",
+  "hplus.config.ui.player_list_ping.description": " を押したときに表示されるプレイヤーリストからPingインジケーターを削除します。",
+  "hplus.config.ui.player_list_ping.description2": "。",
+
+  "hplus.config.ui.tooltips": "カスタムツールチップ背景を切り替え",
+  "hplus.config.ui.tooltips.description": "SkyBlockのカスタムツールチップ背景をバニラのものに戻します。",
+
+  "hplus.config.kofi.pets.models": "ペットモデルを切り替え",
+  "hplus.config.kofi.pets.models.description": "オーバーワールドのペットモデルを有効または無効にします。",
+
+  "hplus.config.kofi.pets.icons": "ペットアイコンを切り替え",
+  "hplus.config.kofi.pets.icons.description": "ペットのUIアイコンを有効または無効にします。",
+
+  "hplus.config.kofi.pets.skins": "ペットスキンを切り替え",
+  "hplus.config.kofi.pets.skins.description": "ペットスキンを頭として表示するか、モデルとテクスチャを使用するかを変更します。",
+
+  "hplus.config.kofi.pets.arachnophobia": "クモ恐怖症モード",
+  "hplus.config.kofi.pets.arachnophobia.description": "SpiderおよびTarantulaのペットモデルを無効にします。",
+
+  "hplus.config.kofi.environments.dwarven_metals": "ドワーフメタルを切り替え",
+  "hplus.config.kofi.environments.dwarven_metals.description": "SkyBlock全体のドワーフメタルブロックテクスチャを有効または無効にします。",
+
+  "hplus.config.kofi.environments.gemstones": "ジェムストーンを切り替え",
+  "hplus.config.kofi.environments.gemstones.description": "SkyBlock全体のジェムストーンブロックテクスチャを有効または無効にします。",
+
+  "hplus.config.kofi.environments.crystal_hollows": "Crystal Hollowsの環境を切り替え",
+  "hplus.config.kofi.environments.crystal_hollows.description": "Crystal Hollowsの環境テクスチャを有効または無効にします。",
+
+  "hplus.config.kofi.environments.glacite_tunnels": "Glacite Tunnelsの環境を切り替え",
+  "hplus.config.kofi.environments.glacite_tunnels.description": "Glacite Tunnelsの環境テクスチャを有効または無効にします。",
+
+  "hplus.config.kofi.environments.crimson_isle": "Crimson Isleの環境を切り替え",
+  "hplus.config.kofi.environments.crimson_isle.description": "Crimson Isleの環境テクスチャを有効または無効にします。",
+
+  "hplus.config.kofi.environments.dwarven_fog": "ドワーフの霧を切り替え",
+  "hplus.config.kofi.environments.dwarven_fog.description": "Dwarven MinesとGlacite Tunnelsの霧の効果を有効または無効にします。",
+
+  "hplus.config.kofi.environments.garden": "Gardenの作物を切り替え",
+  "hplus.config.kofi.environments.garden.description": "GardenでのSunflowerの見た目を変更します。\nまた、夜になるとSunflowerが視覚的にMoonflowerへ変化します。",
+
+  "hplus.config.kofi.environments.torrhus_canyon": "Torrhus Canyonの環境を切り替え",
+  "hplus.config.kofi.environments.torrhus_canyon.description": "Torrhus CanyonのRuby VeilshroomとAnthillのテクスチャを有効にします。"
+}
