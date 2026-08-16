@@ -1,0 +1,511 @@
+{
+  "hplus.about.version": "        0.27.0 voor Minecraft 26.1 // Catharsis",
+  "hplus.about.credit.title": "Gemaakt door: ",
+  "hplus.about.credit": " ic22487",
+  "hplus.about.affiliation": "             (Niet verbonden aan Hypixel)",
+  "hplus.about.discord": " Sluit aan bij de officiële Hypixel+ Discord!",
+  "hplus.about.modrinth": " Bekijk ons op Modrinth!",
+  "hplus.about.kofi": " Wordt een supporter op Ko-Fi!",
+  "hplus.about.other_stuff": "Zie mijn andere projecten:",
+  "hplus.about.other_stuff.items_spreadsheet": "SkyBlock Items Spreadsheet",
+  "hplus.about.other_stuff.alpha_spreadsheet": "Alpha Items Spreadsheet",
+  "hplus.about.other_stuff.scathabominations": "Scathabominations",
+  "hplus.about.translator": "🌐 Vertaling Info",
+  "hplus.about.translator.hover": "Nederlands (NL) vertaling door Socks_m\n§7Wil je helpen meer vertalingen te maken? Klik hier om de GitHub Repo te bezoeken!",
+  "hplus.about.row.padding": "                     ",
+  "hplus.about.licensed": "Gelicentieerd ",
+
+  "hplus.config.warning.leave_this_lang_field_blank": "",
+  "hplus.config.tab.items": "Items",
+  "hplus.config.tab.items.items": "Items",
+  "hplus.config.tab.items.weapons": "Wapens",
+  "hplus.config.tab.items.tools": "Gereedschap",
+  "hplus.config.tab.items.events": "Evenementen",
+  "hplus.config.tab.items.cosmetics": "Cosmetica",
+  "hplus.config.tab.items.storage": "Opslag",
+  "hplus.config.tab.items.other": "Ander",
+  "hplus.config.tab.tweaks": "Aanpassingen",
+  "hplus.config.tab.tweaks.legacy": "Legacy",
+  "hplus.config.tab.tweaks.custom_models": "Aangepast model",
+  "hplus.config.tab.tweaks.armor": "Pantser",
+  "hplus.config.tab.tweaks.big_items": "Grote Items",
+  "hplus.config.tab.animation": "Animatie",
+  "hplus.config.tab.animation.weapons": "Wapens",
+  "hplus.config.tab.animation.tools": "Gereedschap",
+  "hplus.config.tab.animation.items": "Items",
+  "hplus.config.tab.animation.easter_eggs": "Easter Eggs",
+  "hplus.config.tab.ui": "UI",
+  "hplus.config.tab.ui.more_coming_soon": "Meer schakelaars binnenkort™",
+  "hplus.config.tab.kofi": "Ko-Fi",
+  "hplus.config.tab.kofi.header": "Deze pagina effectueert alleen Ko-Fi betas.",
+  "hplus.config.tab.kofi.header2": "Als je vroegtijdig toegang wilt tot updates en functies, kun je joinen door ",
+  "hplus.config.tab.kofi.header_button": "hier te kliken!",
+  "hplus.config.tab.kofi.pets": "Pets",
+  "hplus.config.tab.kofi.pets.disclaimer": "Pet modellen zullen openbaar worden gemaakt zodra alle basis modellen klaar zijn.",
+  "hplus.config.tab.kofi.environments": "Omgevingen",
+  "hplus.config.tab.kofi.environments.disclaimer": "Omgevingen zullen openbaar worden gemaakt zodra ze klaar zijn.",
+  "hplus.config.tab.about": "Over",
+
+  "hplus.config.toggle.on": "AAN ",
+  "hplus.config.toggle.on.no_space": "AAN",
+  "hplus.config.toggle.on.negative": "",
+  "hplus.config.toggle.on.balance": "",
+  "hplus.config.toggle.off": "UIT ",
+  "hplus.config.toggle.off.no_space": "UIT",
+  "hplus.config.toggle.off.negative": "",
+  "hplus.config.toggle.off.balance": "",
+  "hplus.config.toggle.off_warn": "⚠ UIT ",
+  "hplus.config.toggle.off_warn.no_space": "⚠ UIT",
+  "hplus.config.toggle.half_and_half": "Half & Half ",
+  "hplus.config.toggle.vanilla": "Vanilla ",
+  "hplus.config.toggle.vanilla.no_space": "Vanilla",
+  "hplus.config.toggle.hplus": "Hypixel+ ",
+  "hplus.config.toggle.50_percent": "50% ",
+  "hplus.config.toggle.default": "Standaard ",
+  "hplus.config.toggle.default.no_space": "Standaard",
+  "hplus.config.toggle.colored": "Colored",
+  "hplus.config.toggle.auto": "Automatisch ",
+  "hplus.config.toggle.left": "Links ",
+  "hplus.config.toggle.right": "Rechts ",
+  "hplus.config.toggle.16x": "16x ",
+  "hplus.config.toggle.32x": "32x ",
+  "hplus.config.toggle.big.both_big": "Beide Groot ",
+  "hplus.config.toggle.big.both_small": "Beide Klein ",
+  "hplus.config.toggle.aote_aotv.etherwarp": "Etherwarp ",
+  "hplus.config.toggle.aote_aotv.all_spoons": "Alle Lepels ",
+  "hplus.config.toggle.aote_aotv.all_swords": "Alle Zwaarden ",
+  "hplus.config.toggle.dungeonbreaker.blunt": "Botte Punt ",
+  "hplus.config.toggle.dungeonbreaker.sharp": "Spitse Punt ",
+  "hplus.config.toggle.pets.arachnophobia.default": "Standaard Model",
+  "hplus.config.toggle.pets.arachnophobia.no_spiders": "Geen Spinnen",
+  "hplus.config.toggle.pets.arachnophobia.no_tarantulas": "Geen Vogelspinnen",
+  "hplus.config.toggle.pets.arachnophobia.disable_all": "Alles uitschakelen",
+  "hplus.config.toggle.pets.arachnophobia.funny_mode": "Grappige Modus",
+  "hplus.config.toggle.pets.arachnophobia.funny_mode.description": "Maakt ze extra eng. Niet voor bangeriken.",
+
+  "hplus.config.items.accessories": "Accessoires in-/uitschakelen",
+  "hplus.config.items.accessories.description": "Accessoiretexturen in- of uitschakelen.",
+
+  "hplus.config.items.armor": "Harnas in-/uitschakelen",
+  "hplus.config.items.armor.description": "Harnastexturen in- of uitschakelen.",
+
+  "hplus.config.items.equipment": "Uitrusting in-/uitschakelen",
+  "hplus.config.items.equipment.description": "Uitrustingtexturen in- of uitschakelen.",
+
+  "hplus.config.items.weapons": "Alle wapens in-/uitschakelen",
+  "hplus.config.items.weapons.description": "Schakel §CALL§7 wapentexuren in- of uitschakelen.",
+
+  "hplus.config.items.weapons.bows": "Bogen in-/uitschakelen",
+  "hplus.config.items.weapons.bows.description": "Boogtexturen in- of uitschakelen.",
+
+  "hplus.config.items.weapons.longswords": "Langzwaard in-/uitschakelen",
+  "hplus.config.items.weapons.longswords.description": "Langzwaardtexturen in- of uitschakelen.",
+
+  "hplus.config.items.weapons.scythes": "Zeis in-/uitschakelen",
+  "hplus.config.items.weapons.scythes.description": "Zeistexturen in- of uitschakelen.",
+
+  "hplus.config.items.weapons.staves": "Staffen in-/uitschakelen",
+  "hplus.config.items.weapons.staves.description": "Stafftexturen in- of uitschakelen.",
+
+  "hplus.config.items.weapons.swords": "Zwaarden in-/uitschakelen",
+  "hplus.config.items.weapons.swords.description": "Zwaardtexturen in- of uitschakelen.",
+
+  "hplus.config.items.weapons.wands": "Toverstokken in-/uitschakelen",
+  "hplus.config.items.weapons.wands.description": "Toverstoktexturen in- of uitschakelen.",
+
+  "hplus.config.items.weapons.whips": "Zweep in-/uitschakelen",
+  "hplus.config.items.weapons.whips.description": "Zweeptexturen in- of uitschakelen.",
+
+  "hplus.config.items.tools": "Alle gereedschap in-/uitschakelen",
+  "hplus.config.items.tools.description": "Schakel §cALL§7 gereedschaptexturen in- of uitschakelen.",
+
+  "hplus.config.items.tools.abiphones": "Abiphones in-/uitschakelen",
+  "hplus.config.items.tools.abiphones.description": "Abiphonetexturen in- of uitschakelen.",
+
+  "hplus.config.items.tools.arrows": "Pijlen in-/uitschakelen",
+  "hplus.config.items.tools.arrows.description": "Pijltexturen in- of uitschakelen.",
+
+  "hplus.config.items.tools.biome_sticks": "Biome sticks in-/uitschakelen",
+  "hplus.config.items.tools.biome_sticks.description": "Biome stick texturen in- of uitschakelen.",
+
+  "hplus.config.items.tools.combat_tools": "Gevechtsuitrusting in-/uitschakelen",
+  "hplus.config.items.tools.combat_tools.description": "Gevechtsuitrustingtexturen in- of uitschakelen.",
+
+  "hplus.config.items.tools.drills": "Drills in-/uitschakelen",
+  "hplus.config.items.tools.drills.description": "Drilltexturen in- of uitschakelen.",
+
+  "hplus.config.items.tools.farming_tools": "Landbouwgereedschap in-/uitschakelen",
+  "hplus.config.items.tools.farming_tools.description": "Landbouwgereedschaptexturen in- of uitschakelen.",
+
+  "hplus.config.items.tools.garden_hoes": "Tuinharken in-/uitschakelen",
+  "hplus.config.items.tools.garden_hoes.description": "Tuinharktexturen in- of uitschakelen.",
+
+  "hplus.config.items.tools.fishing_tools": "Visgereedschap in-/uitschakelen",
+  "hplus.config.items.tools.fishing_tools.description": "Visgereedschaptexturen in- of uitschakelen.",
+
+  "hplus.config.items.tools.fishing_rods": "Hengels in-/uitschakelen",
+  "hplus.config.items.tools.fishing_rods.description": "Hengeltexturen in- of uitschakelen.",
+
+  "hplus.config.items.tools.rod_parts": "Hengelonderdelen in-/uitschakelen",
+  "hplus.config.items.tools.rod_parts.description": "Hengelonderdeeltexturen in- of uitschakelen.",
+
+  "hplus.config.items.tools.foraging_tools": "Foerageergereedschap in-/uitschakelen",
+  "hplus.config.items.tools.foraging_tools.description": "Foerageergereedschaptexturen in- of uitschakelen.",
+
+  "hplus.config.items.tools.hunting_tools": "Jaaggereedschap in-/uitschakelen",
+  "hplus.config.items.tools.hunting_tools.description": "Jaaggereedschaptexturen in- of uitschakelen.",
+
+  "hplus.config.items.tools.mining_tools": "Mijnbouwgereedschap in-/uitschakelen",
+  "hplus.config.items.tools.mining_tools.description": "Mijnbouwgereedschaptexturen in- of uitschakelen.",
+
+  "hplus.config.items.items": "Alle items in-/uitschakelen",
+  "hplus.config.items.items.description": "Schakel §CALL§7 itemtexturen in- of uitschakelen.",
+
+  "hplus.config.items.items.crimson_isle": "Crimson Isle items in-/uitschakelen",
+  "hplus.config.items.items.crimson_isle.description": "Schakel alle texturen in of uit voor items die je uit de Crimson Isle krijgt.",
+
+  "hplus.config.items.items.dungeons": "Dungeon items in-/uitschakelen",
+  "hplus.config.items.items.dungeons.description": "Schakel alle texturen in of uit voor items die je uit Dungeons krijgt.",
+
+  "hplus.config.items.items.end": "End items in-/uitschakelen",
+  "hplus.config.items.items.end.description": "Schakel alle texturen in of uit voor items die je uit The End krijgt.",
+
+  "hplus.config.items.items.farming": "Landbouw items in-/uitschakelen",
+  "hplus.config.items.items.farming.description": "Schakel alle texturen in of uit voor items die je van landbouw krijgt.",
+
+  "hplus.config.items.items.farming_mutations": "Kasmutaties in-/uitschakelen",
+  "hplus.config.items.items.farming_mutations.description": "Kasmutatietexturen in- of uitschakelen.",
+
+  "hplus.config.items.items.fishing": "Vis items in-/uitschakelen",
+  "hplus.config.items.items.fishing.description": "Schakel alle texturen in of uit voor items die je van vissen krijgt.",
+
+  "hplus.config.items.items.fishing_bait": "Fishing Bait in-/uitschakelen",
+  "hplus.config.items.items.fishing_bait.description": "Visaastexturen in- of uitschakelen.",
+
+  "hplus.config.items.items.trophy_fish": "Trophy Fish in-/uitschakelen",
+  "hplus.config.items.items.trophy_fish.description": "Schakel alle Crimson Isle Trophy Fish texturen in of uit.",
+
+  "hplus.config.items.items.trophy_frogs": "Trophy Frogs in-/uitschakelen",
+  "hplus.config.items.items.trophy_frogs.description": "Scakel alle Lotus Atoll Trophy Frog texturen in of uit.",
+
+  "hplus.config.items.items.foraging": "Foerageer items in-/uitschakelen",
+  "hplus.config.items.items.foraging.description": "Schakel alle texturen in of uit voor items die je van foerageren krijgt.",
+
+  "hplus.config.items.items.hunting": "Jaag items in-/uitschakelen",
+  "hplus.config.items.items.hunting.description": "Schakel alle texturen in of uit voor items die je van jagen krijgt.",
+
+  "hplus.config.items.items.mining": "Mijnbouw items in-/uitschakelen",
+  "hplus.config.items.items.mining.description": "Schakel alle texturen in of uit voor items die je van mijnbouw krijgt.",
+
+  "hplus.config.items.items.gemstones": "Gemstone in-/uitschakelen",
+  "hplus.config.items.items.gemstones.description": "Gemstonetexturen in- of uitschakelen.",
+
+  "hplus.config.items.items.modifiers": "Modificatoren in-/uitschakelen",
+  "hplus.config.items.items.modifiers.description": "Modificatoortexturen in- of uitschakelen.",
+
+  "hplus.config.items.items.pet_items": "Pet Items in-/uitschakelen",
+  "hplus.config.items.items.pet_items.description": "Pet item texturen in- of uitschakelen.",
+
+  "hplus.config.items.items.potions": "Drankjes in-/uitschakelen",
+  "hplus.config.items.items.potions.description": "Drankjetexturen in- of uitschakelen.",
+
+  "hplus.config.items.items.power_stones": "Power Stone in-/uitschakelen",
+  "hplus.config.items.items.power_stones.description": "Power Stone texturen in- of uitschakelen.",
+
+  "hplus.config.items.items.reforge_stones": "Reforge Stones in-/uitschakelen",
+  "hplus.config.items.items.reforge_stones.description": "Reforge Stone texturen in- of uitschakelen.",
+
+  "hplus.config.items.items.rift": "Rift Items in-/uitschakelen",
+  "hplus.config.items.items.rift.description": "Schakel alle texturen in of uit voor items die je uit The Rift krijgt.",
+
+  "hplus.config.items.items.slayer": "Slayer Items in-/uitschakelen",
+  "hplus.config.items.items.slayer.description": "Schakel alle texturen in of uit voor items die je van Slayers krijgt.",
+
+  "hplus.config.items.items.special": "Special Items in-/uitschakelen",
+  "hplus.config.items.items.special.description": "Schakel meeste Special Rarity items texturen in of uit.",
+
+  "hplus.config.items.items.the_fish": "The Fish Items in-/uitschakelen",
+  "hplus.config.items.items.the_fish.description": "The Fish Item texturen in- of uitschakelen.",
+
+  "hplus.config.items.items.travel_scrolls": "Travel Scrolls in-/uitschakelen",
+  "hplus.config.items.items.travel_scrolls.description": "Travel Scroll texturen in- of uitschakelen.",
+
+  "hplus.config.items.items.misc": "Veelsoortige items in-/uitschakelen",
+  "hplus.config.items.items.misc.description": "Texturen in- of uitschakelen voor items die nergens anders bij passen.",
+
+  "hplus.config.items.events.century": "Century Raffle Items in-/uitschakelen",
+  "hplus.config.items.events.century.description": "Raffle of the Century item texturen in- of uitschakelen.",
+
+  "hplus.config.items.events.chuckleton": "Chuckleton Items in-/uitschakelen",
+  "hplus.config.items.events.chuckleton.description": "Schakel alle texturen in of uit voor items die je van Honk and Seek krijgt.",
+
+  "hplus.config.items.events.great_spook": "Great Spook Items in-/uitschakelen ",
+  "hplus.config.items.events.great_spook.description": "Schakel alle texturen in of uit voor items die je van The Great Spook krijgt.",
+
+  "hplus.config.items.events.harvest_feast": "Harvest Feast Items in-/uitschakelen",
+  "hplus.config.items.events.harvest_feast.description": "Schakel alle texturen in of uit voor items die je van de Harvest en Grand Feasts krijgt.",
+
+  "hplus.config.items.events.hoppity": "Hoppity Items in-/uitschakelen",
+  "hplus.config.items.events.hoppity.description": "Schakel alle texturen in of uit voor items die je van Hoppity's Hunt krijgt.",
+
+  "hplus.config.items.events.jerrys_workshop": "Jerry's Workshop Items in-/uitschakelen",
+  "hplus.config.items.events.jerrys_workshop.description": "Schakel alle texturen in of uit voor items die je van Season of Jerry krijgt.",
+
+  "hplus.config.items.events.mythological": "Mythological Items in-/uitschakelen",
+  "hplus.config.items.events.mythological.description": "Schakel alle texturen in of uit voor items die je van Mythological Ritual krijgt.",
+
+  "hplus.config.items.events.spooky_festival": "Spooky Festival Items in-/uitschakelen",
+  "hplus.config.items.events.spooky_festival.description": "Schakel alle texturen in of uit voor items die je van Spooky Festival krijgt.",
+
+  "hplus.config.items.events.zodiac": "Zodiak items in-/uitschakelen",
+  "hplus.config.items.events.zodiac.description": "Schakel alle texturen in of uit voor items die je van \"Year of\" evenementen krijgt.",
+
+  "hplus.config.items.cosmetics.backpack_skins": "Backpack Skins in-/uitschakelen",
+  "hplus.config.items.cosmetics.backpack_skins.description": "Backpack Skin texturen in- of uitschakelen.",
+
+  "hplus.config.items.cosmetics.dyes": "Dyes in-/uitschakelen",
+  "hplus.config.items.cosmetics.dyes.description": "Dye texturen in- of uitschakelen.",
+
+  "hplus.config.items.cosmetics.runes": "Runes in-/uitschakelen",
+  "hplus.config.items.cosmetics.runes.description": "Basis Rune texturen in- of uitschakelen.",
+
+  "hplus.config.items.cosmetics.unique_runes": "Unieke Runes in-/uitschakelen",
+  "hplus.config.items.cosmetics.unique_runes.description": "Fire Sale Rune texturen in- of uitschakelen.",
+
+  "hplus.config.items.storage.backpacks": "Backpacks in-/uitschakelen",
+  "hplus.config.items.storage.backpacks.description": "Backpack texturen in- of uitschakelen.",
+
+  "hplus.config.items.storage.sacks": "Sacks in-/uitschakelen",
+  "hplus.config.items.storage.sacks.description": "Sack texturen in- of uitschakelen.",
+
+  "hplus.config.items.other.currency": "Valuta in-/uitschakelen",
+  "hplus.config.items.other.currency.description": "Dropped valuta texturen in- of uitschakelen. (Coins, Essence, etc)",
+
+  "hplus.config.items.other.glitched_items": "Glitched Items in-/uitschakelen",
+  "hplus.config.items.other.glitched_items.description": "SkyBlock Glitched Item texturen in- of uitschakelen.",
+
+  "hplus.config.items.other.bedwars": "Bedwars Items in-/uitschakelen",
+  "hplus.config.items.other.bedwars.description": "Bedwars en Bedwars Dreams texturen in- of uitschakelen. (§Kapot§7)",
+
+  "hplus.config.items.other.murder_mystery": "Murder Mystery wapens in-/uitschakelen",
+  "hplus.config.items.other.murder_mystery.description": "Enable or disable weapon textures from Murder Mystery. (§Kapot§7)",
+
+
+  "hplus.config.tweaks.aote_aotv": "Aspect of the End/Void aanpassingen",
+  "hplus.config.tweaks.aote_aotv.description": "Bepaald welke texturen worden gebruikt voor Aspect of the End en Aspect of the Void.",
+
+  "hplus.config.tweaks.legacy_axes": "Legacy bijlen",
+  "hplus.config.tweaks.legacy_axes.description": "Zet de wapens die veranderd waren toen Galatea werd uitgebracht terug naar de oorspronkelijke bijlen.",
+
+  "hplus.config.tweaks.legacy_treecapitator": "Legacy Treecapitator",
+  "hplus.config.tweaks.legacy_treecapitator.description": "Draait Treecapitator terug naar zijn obsidiaan-gebaseerde textuur van voor Galatea's uitgave.",
+
+  "hplus.config.tweaks.legacy_giants_sword": "Legacy Giant's Sword",
+  "hplus.config.tweaks.legacy_giants_sword.description": "Draait Giant's Sword terug naar zijn oude textuur en model (groot vanilla ijzeren zwaard).",
+
+  "hplus.config.tweaks.totem_of_corruption": "Totem of Corruption geplaatste model",
+  "hplus.config.tweaks.totem_of_corruption.description": "Bepaald of het aangepast model voor de geplaatste Totem of Corruption.",
+
+  "hplus.config.tweaks.golden_fish": "Golden Fish entiteit model",
+  "hplus.config.tweaks.golden_fish.description": "Bepaald of er een aangepast model wordt gebruikt als je een Golden Fish vindt.",
+
+  "hplus.config.tweaks.fairy_soul": "Fairy Soul model",
+  "hplus.config.tweaks.fairy_soul.description": "Bepaald of er een aangepast model wordt gebruikt voor Fairy Souls.",
+
+  "hplus.config.tweaks.vanilla_garden_crops": "Vanilla Garden gewassen",
+  "hplus.config.tweaks.vanilla_garden_crops.description": "Verandert het ontwerp van Sunflower, Moonflower en Wild Rose om meer op een lijn te zitten met vanilla.",
+
+  "hplus.config.tweaks.left_handed_gloves": "Linkshandige Gloves & Gauntlets",
+  "hplus.config.tweaks.left_handed_gloves.description": "Bepaalt of Gloves en Gauntlets hun links- of rechtshandige model laten zien.",
+
+  "hplus.config.tweaks.dungeonbreaker": "Draai Dungeonbreaker om",
+  "hplus.config.tweaks.dungeonbreaker.description": "Bepaalt welke kant van de Dungeonbreaker je gebruikt om de dungeon mee te breken.",
+
+  "hplus.config.tweaks.armor.models": "Harnasmodellen in-/uitschakelen",
+  "hplus.config.tweaks.armor.models.description": "Harnasmodeltexturen in- of uitschakelen.",
+
+  "hplus.config.tweaks.armor.icons": "Harnasicoontjes in-/uitschakelen",
+  "hplus.config.tweaks.armor.icons.description": "Harnasicoontexturen in- of uitschakelen.",
+
+  "hplus.config.tweaks.armor.masks": "Harnasmaskers in-/uitschakelen",
+  "hplus.config.tweaks.armor.masks.description": "harnasmaskericoontexturen in- of uitschakelen.",
+
+  "hplus.config.tweaks.armor.blocks": "Harnasblokhelmen in-/uitschakelen",
+  "hplus.config.tweaks.armor.blocks.description": "Harnasblokhelmentexturen in- of uitschakelen.",
+
+  "hplus.config.tweaks.armor.player_heads": "Harnasspelerhoofden in-/uitschakelen",
+  "hplus.config.tweaks.armor.player_heads.description": "Harnasspelerhoofdentexturen in- of uitschakelen. §8(Op dit moment alleen Wither Armor)",
+
+  "hplus.config.tweaks.armor.dye": "Harnas Dye in-/uitschakelen",
+  "hplus.config.tweaks.armor.dye.description": "Bepaalt of harnassen kleur baar zijn met dyes.",
+
+  "hplus.config.tweaks.big.staves": "Grote staffen",
+  "hplus.config.tweaks.big.staves.description": "Bepaalt hoe groot een staf is als deze wordt vast gehouden en in UI's.",
+
+  "hplus.config.tweaks.big.scythes": "Grote zeisen",
+  "hplus.config.tweaks.big.scythes.description": "Bepaalt hoe groot een zeis is als deze wordt vast gehouden en in UI's.",
+
+  "hplus.config.tweaks.big.longswords": "Grote lange zwaarden",
+  "hplus.config.tweaks.big.longswords.description": "Bepaalt hoe groot een langzwaard is als deze wordt vast gehouden en in UI's.",
+
+  "hplus.config.tweaks.big.fishing_rods": "Grote hengels",
+  "hplus.config.tweaks.big.fishing_rods.description": "Bepaalt hoe groot de Giant Fishing Rod is als deze wordt vast gehouden en in UI's.",
+
+  "hplus.config.tweaks.big.misc": "Grote veelsoortige items",
+  "hplus.config.tweaks.big.misc.description": "Bepaalt hoe groot andere (veel ongebruikte) gigant items zijn als deze worden vast gehouden en in UI's.",
+
+  "hplus.config.animation": "Alle animaties in-/uitschakelen",
+  "hplus.config.animation.description": "Schakel §CALL§7 item animaties in of uit.",
+
+  "hplus.config.animation.textures": "Alle textuur animaties in-/uitschakelen",
+  "hplus.config.animation.textures.description": "Schakel §CALL§7 geanimeerde texturen in of uit.",
+
+  "hplus.config.animation.weapons.shortbow": "Shortbow Fix",
+  "hplus.config.animation.weapons.shortbow.description": "Bepaalt of Shortbows zichtbaar pijlen vuren bij een rechtermuisklik.",
+
+  "hplus.config.animation.weapons.aotj": "Aspect of the Jerry Parley wenkbrouwen",
+  "hplus.config.animation.weapons.aotj.description": "Bepaalt of de Aspect of the Jerry zijn wenkbrouwen beweegt bij een rechtermuisklik.",
+
+  "hplus.config.animation.weapons.aote_aotv": "Aspect of the End/Void teleportatie flits",
+  "hplus.config.animation.weapons.aote_aotv.description": "Bepaalt of een Aspect of the End/Void flits bij een teleportatie.",
+
+  "hplus.config.animation.weapons.aote_aotv_etherwarp": "Aspect of the End/Void Etherwarp opening",
+  "hplus.config.animation.weapons.aote_aotv_etherwarp.description": "Bepaalt of een Aspect of the End/Void opent bij het gebruik van Etherwarp.",
+
+  "hplus.config.animation.weapons.necron_blade": "Necron Blade Scroll flits",
+  "hplus.config.animation.weapons.necron_blade.description": "Bepaalt of een Necron's Blade en zijn upgrades flitsen bij het gebruik van een van de scroll vaardigheid.",
+
+  "hplus.config.animation.weapons.zombie_sword": "Zombie Sword Heal flits",
+  "hplus.config.animation.weapons.zombie_sword.description": "Bepaalt of de Zombie Swords flitsen bij genezen.",
+
+  "hplus.config.animation.weapons.hollow_wand": "Hollow Wand Glyphs",
+  "hplus.config.animation.weapons.hollow_wand.description": "Bepaalt of een Hollow Wand zichtbaar glyph invoer laat zien.",
+
+  "hplus.config.animation.weapons.celeste_starlight_wand": "Celeste/Starlight Wand flits",
+  "hplus.config.animation.weapons.celeste_starlight_wand.description": "Bepaalt of een Celeste en Starlight Wand flitst tijdens het casten.",
+
+  "hplus.config.animation.weapons.ink_wand": "Ink Wand Squish",
+  "hplus.config.animation.weapons.ink_wand.description": "Bepaalt of een Ink Wand squisht zodra er Ink Bomb wordt gecast.",
+
+  "hplus.config.animation.weapons.pigman_sword": "Pigman Sword vuur",
+  "hplus.config.animation.weapons.pigman_sword.description": "Bepaalt of Pigman Sword vuur laat zien bij het casten van Burning Souls.",
+
+  "hplus.config.animation.weapons.sinseeker_scythe": "Sinseeker Scythe Sinrecall flits",
+  "hplus.config.animation.weapons.sinseeker_scythe.description": "Bepaalt of Sinseeker Scythe flitst bij het casten van Sinrecall.",
+
+  "hplus.config.animation.weapons.voodoo_doll": "Voodoo Doll steek",
+  "hplus.config.animation.weapons.voodoo_doll.description": "Bepaalt of Voodoo Dolls worden gestoken bij het casten van Acupuncture.",
+
+  "hplus.config.animation.tools.drill": "Drill draai animatie",
+  "hplus.config.animation.tools.drill.description": "bepaalt of Drills draaien als er mee wordt gemijnd.",
+
+  "hplus.config.animation.tools.vacuum": "Vacuum Vortex animatie",
+  "hplus.config.animation.tools.vacuum.description": "Bepaalt of Vacuums zichtbaar puin opzuigen zodra ze gebruikt worden.",
+
+  "hplus.config.animation.tools.hydrocan": "HydroCan™ Watering animatie",
+  "hplus.config.animation.tools.hydrocan.description": "Bepaalt of HydroCan™s zichtbaar water gieten en opvullen met water.",
+
+  "hplus.config.animation.tools.plant_diagnostics_tool": "Plant Diagnostics Tool animatie",
+  "hplus.config.animation.tools.plant_diagnostics_tool.description": "bepaalt of de Plant Diagnostics Tool meter beweegt als hij wordt gebruikt.",
+
+  "hplus.config.animation.tools.abiphone": "Abiphone Display animaties",
+  "hplus.config.animation.tools.abiphone.description": "Bepaalt of Abiphones aan gaan wanneer ze worden vastgehouden of wanneer er met de muis overheen wordt bewogen.",
+
+  "hplus.config.animation.tools.wand_of_healing": "Wand of Healing flits",
+  "hplus.config.animation.tools.wand_of_healing.description": "Bepaalt of de Wands of Healing, Mending, Restoration, Atonement en Strength flitsen wanneer ze gebruikt worden.",
+
+  "hplus.config.animation.tools.aotl": "Aspect of the Leech Transmission",
+  "hplus.config.animation.tools.aotl.description": "Bepaalt of Aspect of the Leech opent als Weird Transmission wordt gebruikt.",
+
+  "hplus.config.animation.tools.royal_pigeon": "Royal Pigeon bellen",
+  "hplus.config.animation.tools.royal_pigeon.description": "Bepaalt of Royal Pigeons zichtbaar chirpen als ze worden gebruikt.",
+
+  "hplus.config.animation.tools.egglocator": "Egglocator knipper",
+  "hplus.config.animation.tools.egglocator.description": "Bepaalt of Egglocators knipperen als ze worden gebruikt.",
+
+  "hplus.config.animation.tools.soul_esoward": "Soul Esoward knipper",
+  "hplus.config.animation.tools.soul_esoward.description": "Bepaalt of Soul Esowards knipperen als ze worden gebruikt.",
+
+  "hplus.config.animation.tools.etherwarp_conduit": "Etherwarp Conduit open",
+  "hplus.config.animation.tools.etherwarp_conduit.description": "Bepaalt of Etherwarp Conduits openen bij sluipen.",
+
+  "hplus.config.animation.tools.detective_scanner": "Detective Scanner snuffel",
+  "hplus.config.animation.tools.detective_scanner.description": "Bepaalt of Detective Scanners snuffelen als hij wordt gebruikt.",
+
+  "hplus.config.animation.tools.healing_melon": "Healing Melon eten",
+  "hplus.config.animation.tools.healing_melon.description": "Bepaalt of Healing Melons zichtbaar worden gegeten als ze worden gebruikt.",
+
+  "hplus.config.animation.tools.holy_ice": "Holy Ice flits",
+  "hplus.config.animation.tools.holy_ice.description": "Bepaalt of Holy Ice flitst als hij wordt gebruikt.",
+
+  "hplus.config.animation.items.spraying": "Sproei animaties",
+  "hplus.config.animation.items.spraying.description": "Bepaalt of de Sprayonator, Pest Repellent, en Spray Cans zichtbaar sproeien als ze worden gebruikt.",
+
+  "hplus.config.animation.items.ubiks_cube": "Ubik's Cube rotatie",
+  "hplus.config.animation.items.ubiks_cube.description": "Bepaalt of Ubik's Cube draait als hij wordt gebruikt.",
+
+  "hplus.config.animation.items.revive_stone": "Revive Stone breekt",
+  "hplus.config.animation.items.revive_stone.description": "Bepaalt of Revive Stones zichtbaar breken wanneer ze worden gebruikt.",
+
+  "hplus.config.animation.items.haunt": "Haunt Button verlegenheid",
+  "hplus.config.animation.items.haunt.description": "Bepaalt of de Haunt Button in dungeons zichzelf verbergt als hij wordt gebruikt.",
+
+  "hplus.config.animation.items.box_open": "Raffle Loot Box opening animatie",
+  "hplus.config.animation.items.box_open.description": "Bepaalt of Raffle Loot Boxes openen waneer ze worden gebruikt.",
+
+  "hplus.config.animation.easter_eggs.held_item_idle": "Inactieve animaties voor vastgehouden items",
+  "hplus.config.animation.easter_eggs.held_item_idle.description": "Schakelt verschillende easter egg animaties die alleen verschijnen als ze worden vast gehouden.",
+
+  "hplus.config.animation.easter_eggs.right_click_inspect": "Rechtermuisklik/-knop inspecteer animaties",
+  "hplus.config.animation.easter_eggs.right_click_inspect.description": "schakelt verschillende easter egg animaties die alleen verschijnen als de rechtermuisknop wordt vastgehouden.",
+
+  "hplus.config.ui": "Alle UI icoontjes in-/uitschakelen",
+  "hplus.config.ui.description": "Schakel §CALL§7 UI icoontjes in of uit.",
+
+  "hplus.config.ui.fire_overlay": "Vuuroverlay in-/uitschakelen",
+  "hplus.config.ui.fire_overlay.description": "Wijzig de transparantie van de vuuroverlay in het first-person perspectief.",
+  "hplus.config.ui.fire_overlay.description2": "Kan gek werken met shaders en NVIDIA grafische kaarten.",
+
+  "hplus.config.ui.player_list_ping": "Spelers lijst ping in-/uitschakelen",
+  "hplus.config.ui.player_list_ping.description": "Haalt ping indicatoren weg van de speler lijst als je niet ",
+  "hplus.config.ui.player_list_ping.description2": " indrukt.",
+
+  "hplus.config.ui.tooltips": "Aangepaste tooltip achtergronden in-/uitschakelen",
+  "hplus.config.ui.tooltips.description": "Verandert SkyBlock's aangepaste tooltip achtergronden terug naar de vanilla achtergronden.",
+
+  "hplus.config.kofi.pets.models": "Pet modellen in-/uitschakelen",
+  "hplus.config.kofi.pets.models.description": "Schakel overwereld pet modellen in of uit.",
+
+  "hplus.config.kofi.pets.icons": "Pet icoontjes in-/uitschakelen",
+  "hplus.config.kofi.pets.icons.description": "Schakel pet menu UI icoontjes in of uit.",
+
+  "hplus.config.kofi.pets.skins": "Pet skins",
+  "hplus.config.kofi.pets.skins.description": "Verander of pet skins zichtbaar zijn als speler hoofden of modellen en texturen hebben.",
+
+  "hplus.config.kofi.pets.arachnophobia": "Arachnofobie modus",
+  "hplus.config.kofi.pets.arachnophobia.description": "Zet de Spider en Tarantula pet modellen uit.",
+
+  "hplus.config.kofi.environments.dwarven_metals": "Dwarven Metals in-/uitschakelen",
+  "hplus.config.kofi.environments.dwarven_metals.description": "Schakel Dwarven Metal blok texturen in of uit door heel SkyBlock.",
+
+  "hplus.config.kofi.environments.gemstones": "Gemstones in-/uitschakelen",
+  "hplus.config.kofi.environments.gemstones.description": "Schakel Gemstone blok texturen in of uit door heel SkyBlock.",
+
+  "hplus.config.kofi.environments.crystal_hollows": "Crystal Hollows omgeving in-/uitschakelen",
+  "hplus.config.kofi.environments.crystal_hollows.description": "Schakel omgeving texturen in de Crystal Hollows in of uit.",
+
+  "hplus.config.kofi.environments.glacite_tunnels": "Glacite Tunnels omgeving in-/uitschakelen",
+  "hplus.config.kofi.environments.glacite_tunnels.description": "Schakel omgeving texturen in de Glacite Tunnels in of uit.",
+
+  "hplus.config.kofi.environments.crimson_isle": "Crimson Isle omgeving in-/uitschakelen",
+  "hplus.config.kofi.environments.crimson_isle.description": "Schakel omgeving texturen in de Crimson Isle in of uit.",
+
+  "hplus.config.kofi.environments.dwarven_fog": "Dwarven mist in-/uitschakelen",
+  "hplus.config.kofi.environments.dwarven_fog.description": "Schakel het mist effect in de Dwarven Mines en Glacite Tunnels in of uit.",
+
+  "hplus.config.kofi.environments.garden": "Garden gewassen in-/uitschakelen",
+  "hplus.config.kofi.environments.garden.description": "Verandert hoe zonnebloemen er uit zien in de Garden.\nOok verandert dit hoe zonnebloemen zichtbaar veranderen naar maanbloemen in de nacht.",
+
+  "hplus.config.kofi.environments.torrhus_canyon": "Torrhus Canyon omgeving in-/uitschakelen",
+  "hplus.config.kofi.environments.torrhus_canyon.description": "Schakel Ruby Veilshrooms en Anthills texturen in de Torrhus Canyon in of uit."
+}
