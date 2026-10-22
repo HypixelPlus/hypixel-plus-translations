@@ -1,5 +1,5 @@
 {
-  "hplus.about.version": "        0.27.0 voor Minecraft 26.1 // Catharsis",
+  "hplus.about.version": "        0.27.2 voor Minecraft 26.3 // Catharsis",
   "hplus.about.credit.title": "Gemaakt door: ",
   "hplus.about.credit": " ic22487",
   "hplus.about.affiliation": "             (Niet verbonden aan Hypixel)",
@@ -27,7 +27,6 @@
   "hplus.config.tab.tweaks": "Aanpassingen",
   "hplus.config.tab.tweaks.legacy": "Legacy",
   "hplus.config.tab.tweaks.custom_models": "Aangepast model",
-  "hplus.config.tab.tweaks.armor": "Pantser",
   "hplus.config.tab.tweaks.big_items": "Grote Items",
   "hplus.config.tab.animation": "Animatie",
   "hplus.config.tab.animation.weapons": "Wapens",
@@ -35,7 +34,6 @@
   "hplus.config.tab.animation.items": "Items",
   "hplus.config.tab.animation.easter_eggs": "Easter Eggs",
   "hplus.config.tab.ui": "UI",
-  "hplus.config.tab.ui.more_coming_soon": "Meer schakelaars binnenkort™",
   "hplus.config.tab.kofi": "Ko-Fi",
   "hplus.config.tab.kofi.header": "Deze pagina effectueert alleen Ko-Fi betas.",
   "hplus.config.tab.kofi.header2": "Als je vroegtijdig toegang wilt tot updates en functies, kun je joinen door ",

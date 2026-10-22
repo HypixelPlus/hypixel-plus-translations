@@ -1,5 +1,5 @@
 {
-  "hplus.about.version": "        0.27.0 for Minecraft 26.1 // Catharsis",
+  "hplus.about.version": "        0.27.2 for Minecraft 26.3 // Catharsis",
   "hplus.about.credit.title": "Created by: ",
   "hplus.about.credit": " ic22487",
   "hplus.about.affiliation": "             (Not affiliated with Hypixel)",
@@ -24,10 +24,12 @@
   "hplus.config.tab.items.cosmetics": "Cosmetics",
   "hplus.config.tab.items.storage": "Storage",
   "hplus.config.tab.items.other": "Other",
+  "hplus.config.tab.armor": "Armor",
+  "hplus.config.tab.armor.legacy": "Legacy",
+
   "hplus.config.tab.tweaks": "Tweaks",
   "hplus.config.tab.tweaks.legacy": "Legacy",
   "hplus.config.tab.tweaks.custom_models": "Custom Models",
-  "hplus.config.tab.tweaks.armor": "Armor",
   "hplus.config.tab.tweaks.big_items": "Big Items",
   "hplus.config.tab.animation": "Animation",
   "hplus.config.tab.animation.weapons": "Weapons",
@@ -35,7 +37,8 @@
   "hplus.config.tab.animation.items": "Items",
   "hplus.config.tab.animation.easter_eggs": "Easter Eggs",
   "hplus.config.tab.ui": "UI",
-  "hplus.config.tab.ui.more_coming_soon": "More toggles coming soon™",
+  "hplus.config.tab.ui.qol": "QoL",
+  "hplus.config.tab.ui.cosmetic": "Cosmetic",
   "hplus.config.tab.kofi": "Ko-Fi",
   "hplus.config.tab.kofi.header": "This tab only affects Ko-Fi betas.",
   "hplus.config.tab.kofi.header2": "If you want early access to updates and new features, you can join by ",
@@ -59,11 +62,16 @@
   "hplus.config.toggle.half_and_half": "Half & Half ",
   "hplus.config.toggle.vanilla": "Vanilla ",
   "hplus.config.toggle.vanilla.no_space": "Vanilla",
+  "hplus.config.toggle.bedrock": "Bedrock ",
   "hplus.config.toggle.hplus": "Hypixel+ ",
   "hplus.config.toggle.50_percent": "50% ",
   "hplus.config.toggle.default": "Default ",
   "hplus.config.toggle.default.no_space": "Default",
   "hplus.config.toggle.colored": "Colored",
+  "hplus.config.toggle.fill": "Fill ",
+  "hplus.config.toggle.fill.black": "Fill Black ",
+  "hplus.config.toggle.fill.vanilla": "Fill Black 2 ",
+  "hplus.config.toggle.fill.solid": "Fill Solid ",
   "hplus.config.toggle.auto": "Auto ",
   "hplus.config.toggle.left": "Left ",
   "hplus.config.toggle.right": "Right ",
@@ -85,9 +93,6 @@
   
   "hplus.config.items.accessories": "Toggle Accessories",
   "hplus.config.items.accessories.description": "Enable or disable Accessory textures.",
-
-  "hplus.config.items.armor": "Toggle Armor",
-  "hplus.config.items.armor.description": "Enable or disable Armor textures.",
 
   "hplus.config.items.equipment": "Toggle Equipment",
   "hplus.config.items.equipment.description": "Enable or disable Equipment textures.",
@@ -290,6 +295,35 @@
   "hplus.config.items.other.murder_mystery": "Toggle Murder Mystery Weapons",
   "hplus.config.items.other.murder_mystery.description": "Enable or disable weapon textures from Murder Mystery. (§cBroken§7)",
   
+  "hplus.config.armor.armor": "Toggle Armor",
+  "hplus.config.armor.armor.description": "Enable or disable §cALL§7 Armor textures.",
+
+  "hplus.config.armor.armor.models": "Toggle Armor Models",
+  "hplus.config.armor.armor.models.description": "Enable or Disable Armor textures displayed on the player model.",
+
+  "hplus.config.armor.armor.icons": "Toggle Armor Icons",
+  "hplus.config.armor.armor.icons.description": "Enable or Disable Armor inventory icon textures.",
+
+  "hplus.config.armor.armor.masks": "Toggle Armor Masks",
+  "hplus.config.armor.armor.masks.description": "Enable or Disable Mask Armor icon textures.",
+
+  "hplus.config.armor.armor.blocks": "Toggle Armor Block Helmets",
+  "hplus.config.armor.armor.blocks.description": "Enable or Disable Block Helmet armor textures.",
+
+  "hplus.config.armor.armor.player_heads": "Toggle Armor Player Heads",
+  "hplus.config.armor.armor.player_heads.description": "Enable or Disable Player Head Armor retextures. §8(Currently only Wither Armor)",
+
+  "hplus.config.armor.armor.dye": "Toggle Armor Dye",
+  "hplus.config.armor.armor.dye.description": "Enable or Disable whether Armor is dyeable.",
+
+  "hplus.config.armor.legacy.melon": "Melon Armor",
+  "hplus.config.armor.legacy.melon.description": "Turns Tater Armor back into Melon Armor (0.26.1).",
+
+  "hplus.config.armor.legacy.pumpkin": "Pumpkin Armor",
+  "hplus.config.armor.legacy.pumpkin.description": "Turns Sprout Armor back into Pumpkin Armor (0.26.1).",
+
+  "hplus.config.armor.legacy.angler": "Angler Armor",
+  "hplus.config.armor.legacy.angler.description": "Gives Angler Armor its old texture back (0.22.0).",
 
   "hplus.config.tweaks.aote_aotv": "Aspect of the End/Void Tweaks",
   "hplus.config.tweaks.aote_aotv.description": "Decides which textures are used for Aspect of the End and Aspect of the Void.",
@@ -320,24 +354,6 @@
 
   "hplus.config.tweaks.dungeonbreaker": "Flip Dungeonbreaker",
   "hplus.config.tweaks.dungeonbreaker.description": "Decides which side of the Dungeonbreaker you dungeon break with.",
-
-  "hplus.config.tweaks.armor.models": "Toggle Armor Models",
-  "hplus.config.tweaks.armor.models.description": "Enable or Disable Armor textures displayed on the player model.",
-
-  "hplus.config.tweaks.armor.icons": "Toggle Armor Icons",
-  "hplus.config.tweaks.armor.icons.description": "Enable or Disable Armor inventory icon textures.",
-
-  "hplus.config.tweaks.armor.masks": "Toggle Armor Masks",
-  "hplus.config.tweaks.armor.masks.description": "Enable or Disable Mask Armor icon textures.",
-
-  "hplus.config.tweaks.armor.blocks": "Toggle Armor Block Helmets",
-  "hplus.config.tweaks.armor.blocks.description": "Enable or Disable Block Helmet armor textures.",
-
-  "hplus.config.tweaks.armor.player_heads": "Toggle Armor Player Heads",
-  "hplus.config.tweaks.armor.player_heads.description": "Enable or Disable Player Head Armor retextures. §8(Currently only Wither Armor)",
-
-  "hplus.config.tweaks.armor.dye": "Toggle Armor Dye",
-  "hplus.config.tweaks.armor.dye.description": "Enable or Disable whether Armor is dyeable.",
 
   "hplus.config.tweaks.big.staves": "Big Staves",
   "hplus.config.tweaks.big.staves.description": "Decides staff sizes when held in hand and in the UI.",
@@ -472,6 +488,18 @@
 
   "hplus.config.ui.tooltips": "Toggle Custom Tooltip Backgrounds",
   "hplus.config.ui.tooltips.description": "Changes SkyBlock's custom tooltip backgrounds back to the vanilla one.",
+  
+  "hplus.config.ui.tooltip_underline": "Toggle Tooltip Name Underline",
+  "hplus.config.ui.tooltip_underline.description": "Adds a colored underline to the names of items.",
+
+  "hplus.config.ui.menu_glass": "Toggle Menu Glass Textures",
+  "hplus.config.ui.menu_glass.description": "Changes the glass in SkyBlock's menus.",
+  
+  "hplus.config.ui.skyblock_menu": "Toggle SkyBlock Menu Button Textures",
+  "hplus.config.ui.skyblock_menu.description": "Changes the texture of the SkyBlock Menu button.",
+  
+  "hplus.config.ui.legacy_text_color": "Legacy Text Colors",
+  "hplus.config.ui.legacy_text_color.description": "Changes the text within SkyBlock back to their original vanilla colors",
 
   "hplus.config.kofi.pets.models": "Toggle Pet Models",
   "hplus.config.kofi.pets.models.description": "Enable or disable overworld pet models.",
@@ -507,5 +535,5 @@
   "hplus.config.kofi.environments.garden.description": "Change how Sunflowers look while in the Garden.\nAlso causes Sunflowers to visually change to Moonflowers at night.",
   
   "hplus.config.kofi.environments.torrhus_canyon": "Toggle Torrhus Canyon Environment",
-  "hplus.config.kofi.environments.torrhus_canyon.description": "Enable textures for Ruby Veilshrooms and Anthills in the Torrhus Canyon."
+  "hplus.config.kofi.environments.torrhus_canyon.description": "Enable textures for Ruby Veilshrooms and Anthills in the Torrhus Canyon"
 }

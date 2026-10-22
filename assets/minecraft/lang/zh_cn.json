@@ -1,5 +1,5 @@
 {
-  "hplus.about.version": "        适用于Minecraft 26.1的0.27.0版本//Catharsis",
+  "hplus.about.version": "        适用于Minecraft 26.3的0.27.2版本//Catharsis",
   "hplus.about.credit.title": "作者：",
   "hplus.about.credit": " ic22487",
   "hplus.about.affiliation": "             （与Hypixel无关联）",
@@ -27,7 +27,6 @@
   "hplus.config.tab.tweaks": "调整",
   "hplus.config.tab.tweaks.legacy": "旧版",
   "hplus.config.tab.tweaks.custom_models": "自定义模型",
-  "hplus.config.tab.tweaks.armor": "护甲",
   "hplus.config.tab.tweaks.big_items": "大型物品",
   "hplus.config.tab.animation": "动画",
   "hplus.config.tab.animation.weapons": "武器",
@@ -35,7 +34,6 @@
   "hplus.config.tab.animation.items": "物品",
   "hplus.config.tab.animation.easter_eggs": "彩蛋",
   "hplus.config.tab.ui": "界面",
-  "hplus.config.tab.ui.more_coming_soon": "更多开关即将推出™",
   "hplus.config.tab.kofi": "Ko-Fi",
   "hplus.config.tab.kofi.header": "此选项卡仅影响Ko-Fi测试版本。",
   "hplus.config.tab.kofi.header2": "如果你想提前体验更新和新功能，可以通过",

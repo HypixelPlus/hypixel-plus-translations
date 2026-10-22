@@ -1,5 +1,5 @@
 {
-  "hplus.about.version": "        Minecraft 26.1対応の0.27.0版//Catharsis",
+  "hplus.about.version": "        Minecraft 26.3対応の0.27.2版//Catharsis",
   "hplus.about.credit.title": "作者：",
   "hplus.about.credit": " ic22487",
   "hplus.about.affiliation": "             （Hypixelとは無関係です）",
@@ -27,7 +27,6 @@
   "hplus.config.tab.tweaks": "調整",
   "hplus.config.tab.tweaks.legacy": "旧仕様",
   "hplus.config.tab.tweaks.custom_models": "カスタムモデル",
-  "hplus.config.tab.tweaks.armor": "防具",
   "hplus.config.tab.tweaks.big_items": "大型アイテム",
   "hplus.config.tab.animation": "アニメーション",
   "hplus.config.tab.animation.weapons": "武器",
@@ -35,7 +34,6 @@
   "hplus.config.tab.animation.items": "アイテム",
   "hplus.config.tab.animation.easter_eggs": "イースターエッグ",
   "hplus.config.tab.ui": "UI",
-  "hplus.config.tab.ui.more_coming_soon": "さらなる切り替え項目が近日登場™",
   "hplus.config.tab.kofi": "Ko-Fi",
   "hplus.config.tab.kofi.header": "このタブはKo-Fi版にのみ影響します。",
   "hplus.config.tab.kofi.header2": "アップデートや新機能を先行体験したい場合は、",
