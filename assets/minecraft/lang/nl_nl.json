@@ -24,6 +24,9 @@
   "hplus.config.tab.items.cosmetics": "Cosmetica",
   "hplus.config.tab.items.storage": "Opslag",
   "hplus.config.tab.items.other": "Ander",
+  "hplus.config.tab.armor": "Harnas",
+  "hplus.config.tab.armor.legacy": "Oud",
+
   "hplus.config.tab.tweaks": "Aanpassingen",
   "hplus.config.tab.tweaks.legacy": "Legacy",
   "hplus.config.tab.tweaks.custom_models": "Aangepast model",
@@ -34,6 +37,8 @@
   "hplus.config.tab.animation.items": "Items",
   "hplus.config.tab.animation.easter_eggs": "Easter Eggs",
   "hplus.config.tab.ui": "UI",
+  "hplus.config.tab.ui.qol": "QoL",
+  "hplus.config.tab.ui.cosmetic": "cosmetisch",
   "hplus.config.tab.kofi": "Ko-Fi",
   "hplus.config.tab.kofi.header": "Deze pagina effectueert alleen Ko-Fi betas.",
   "hplus.config.tab.kofi.header2": "Als je vroegtijdig toegang wilt tot updates en functies, kun je joinen door ",
@@ -57,11 +62,16 @@
   "hplus.config.toggle.half_and_half": "Half & Half ",
   "hplus.config.toggle.vanilla": "Vanilla ",
   "hplus.config.toggle.vanilla.no_space": "Vanilla",
+  "hplus.config.toggle.bedrock": "Bedrock ",
   "hplus.config.toggle.hplus": "Hypixel+ ",
   "hplus.config.toggle.50_percent": "50% ",
   "hplus.config.toggle.default": "Standaard ",
   "hplus.config.toggle.default.no_space": "Standaard",
-  "hplus.config.toggle.colored": "Colored",
+  "hplus.config.toggle.colored": "Gekleurd",
+  "hplus.config.toggle.fill": "Vullen ",
+  "hplus.config.toggle.fill.black": "Vullen Zwart ",
+  "hplus.config.toggle.fill.vanilla": "Vullen Zwart 2 ",
+  "hplus.config.toggle.fill.solid": "Vullen Vast ",
   "hplus.config.toggle.auto": "Automatisch ",
   "hplus.config.toggle.left": "Links ",
   "hplus.config.toggle.right": "Rechts ",
@@ -83,9 +93,6 @@
 
   "hplus.config.items.accessories": "Accessoires in-/uitschakelen",
   "hplus.config.items.accessories.description": "Accessoiretexturen in- of uitschakelen.",
-
-  "hplus.config.items.armor": "Harnas in-/uitschakelen",
-  "hplus.config.items.armor.description": "Harnastexturen in- of uitschakelen.",
 
   "hplus.config.items.equipment": "Uitrusting in-/uitschakelen",
   "hplus.config.items.equipment.description": "Uitrustingtexturen in- of uitschakelen.",
@@ -288,6 +295,35 @@
   "hplus.config.items.other.murder_mystery": "Murder Mystery wapens in-/uitschakelen",
   "hplus.config.items.other.murder_mystery.description": "Enable or disable weapon textures from Murder Mystery. (§Kapot§7)",
 
+  "hplus.config.armor.armor": "Harnas in-/uitschakelen",
+  "hplus.config.armor.armor.description": "Harnastexturen in- of uitschakelen.",
+
+  "hplus.config.armor.armor.models": "Harnasmodellen in-/uitschakelen",
+  "hplus.config.armor.armor.models.description": "Harnasmodeltexturen in- of uitschakelen.",
+
+  "hplus.config.armor.armor.icons": "Harnasicoontjes in-/uitschakelen",
+  "hplus.config.armor.armor.icons.description": "Harnasicoontexturen in- of uitschakelen.",
+
+  "hplus.config.armor.armor.masks": "Harnasmaskers in-/uitschakelen",
+  "hplus.config.armor.armor.masks.description": "harnasmaskericoontexturen in- of uitschakelen.",
+
+  "hplus.config.armor.armor.blocks": "Harnasblokhelmen in-/uitschakelen",
+  "hplus.config.armor.armor.blocks.description": "Harnasblokhelmentexturen in- of uitschakelen.",
+
+  "hplus.config.armor.armor.player_heads": "Harnasspelerhoofden in-/uitschakelen",
+  "hplus.config.armor.armor.player_heads.description": "Harnasspelerhoofdentexturen in- of uitschakelen. §8(Op dit moment alleen Wither Armor)",
+
+  "hplus.config.armor.armor.dye": "Harnas Dye in-/uitschakelen",
+  "hplus.config.armor.armor.dye.description": "Bepaalt of harnassen kleur baar zijn met dyes.",
+
+  "hplus.config.armor.legacy.melon": "Meloen Armor",
+  "hplus.config.armor.legacy.melon.description": "Verandert Tater Armor terug naar Melon Armor (0.26.1).",
+
+  "hplus.config.armor.legacy.pumpkin": "Pumpkin Armor",
+  "hplus.config.armor.legacy.pumpkin.description": "Verandert Sprout Armor terug naar Pumpkin Armor (0.26.1).",
+
+  "hplus.config.armor.legacy.angler": "Angler Armor",
+  "hplus.config.armor.legacy.angler.description": "Geeft Angler Armor zijn oude textuur terug (0.22.0).",
 
   "hplus.config.tweaks.aote_aotv": "Aspect of the End/Void aanpassingen",
   "hplus.config.tweaks.aote_aotv.description": "Bepaald welke texturen worden gebruikt voor Aspect of the End en Aspect of the Void.",
@@ -318,24 +354,6 @@
 
   "hplus.config.tweaks.dungeonbreaker": "Draai Dungeonbreaker om",
   "hplus.config.tweaks.dungeonbreaker.description": "Bepaalt welke kant van de Dungeonbreaker je gebruikt om de dungeon mee te breken.",
-
-  "hplus.config.tweaks.armor.models": "Harnasmodellen in-/uitschakelen",
-  "hplus.config.tweaks.armor.models.description": "Harnasmodeltexturen in- of uitschakelen.",
-
-  "hplus.config.tweaks.armor.icons": "Harnasicoontjes in-/uitschakelen",
-  "hplus.config.tweaks.armor.icons.description": "Harnasicoontexturen in- of uitschakelen.",
-
-  "hplus.config.tweaks.armor.masks": "Harnasmaskers in-/uitschakelen",
-  "hplus.config.tweaks.armor.masks.description": "harnasmaskericoontexturen in- of uitschakelen.",
-
-  "hplus.config.tweaks.armor.blocks": "Harnasblokhelmen in-/uitschakelen",
-  "hplus.config.tweaks.armor.blocks.description": "Harnasblokhelmentexturen in- of uitschakelen.",
-
-  "hplus.config.tweaks.armor.player_heads": "Harnasspelerhoofden in-/uitschakelen",
-  "hplus.config.tweaks.armor.player_heads.description": "Harnasspelerhoofdentexturen in- of uitschakelen. §8(Op dit moment alleen Wither Armor)",
-
-  "hplus.config.tweaks.armor.dye": "Harnas Dye in-/uitschakelen",
-  "hplus.config.tweaks.armor.dye.description": "Bepaalt of harnassen kleur baar zijn met dyes.",
 
   "hplus.config.tweaks.big.staves": "Grote staffen",
   "hplus.config.tweaks.big.staves.description": "Bepaalt hoe groot een staf is als deze wordt vast gehouden en in UI's.",
@@ -470,6 +488,18 @@
 
   "hplus.config.ui.tooltips": "Aangepaste tooltip achtergronden in-/uitschakelen",
   "hplus.config.ui.tooltips.description": "Verandert SkyBlock's aangepaste tooltip achtergronden terug naar de vanilla achtergronden.",
+
+  "hplus.config.ui.tooltip_underline": "Tooltip naam onderlijn in-/uitschakelen",
+  "hplus.config.ui.tooltip_underline.description": "Voegt een gekleurde onderlijning toe aan de namen van items.",
+
+  "hplus.config.ui.menu_glass": "Menu glas texturen in-/uitschakelen",
+  "hplus.config.ui.menu_glass.description": "Verandert het glas in SkyBlock's menus.",
+
+  "hplus.config.ui.skyblock_menu": "SkyBlock Menu knop texturen in-/uitschakelen",
+  "hplus.config.ui.skyblock_menu.description": "Verandert de textuur van de SkyBlock menu knoppen.",
+
+  "hplus.config.ui.legacy_text_color": "Oude tekst kleuren",
+  "hplus.config.ui.legacy_text_color.description": "Verandert de tekst binnen SkyBlock terug naar hun oorspronkelijke vanilla kleuren",
 
   "hplus.config.kofi.pets.models": "Pet modellen in-/uitschakelen",
   "hplus.config.kofi.pets.models.description": "Schakel overwereld pet modellen in of uit.",
