@@ -2,7 +2,7 @@
 If you want to contribute to translating H+ into another language, make a PR!<br>
 Remember to include your name in `hplus.about.translator.hover` if you contribute to a file.
 
-**If want to create your own translation overlay, you are free to put it on Modrinth as long as these conditions are met:**<br>
+**If you want to create your own translation overlay, you are free to put it on Modrinth as long as these conditions are met:**<br>
 • Your overlay resource pack has Hypixel+ marked as a dependency<br>
 • Your overlay resource pack does not contain any Hypixel+ assets, only the updated lang file(s)<br>
 • Your overlay resource pack is uploaded with a [CC BY-NC-SA 4.0 license](https://creativecommons.org/licenses/by-nc-sa/4.0/)<br>
